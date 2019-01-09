@@ -1,0 +1,1274 @@
+Script started on Wed 09 Jan 2019 01:59:54 PM PST
+]0;jackw@jackw-VirtualBox: ~[01;32mjackw@jackw-VirtualBox[00m:[01;34m~[00m$ cd Desktio[K[Kop
+]0;jackw@jackw-VirtualBox: ~/Desktop[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop[00m$ mkdir CSCI 241
+]0;jackw@jackw-VirtualBox: ~/Desktop[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop[00m$ mkdir CSCI 241\ 241
+]0;jackw@jackw-VirtualBox: ~/Desktop[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop[00m$ cd mkdir CSCI\ 241cd [K
+CSCI 140/  CSCI 241/  Downloads/ Eclipse/   
+]0;jackw@jackw-VirtualBox: ~/Desktop[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop[00m$ cd 
+CSCI 140/  CSCI 241/  Downloads/ Eclipse/   
+]0;jackw@jackw-VirtualBox: ~/Desktop[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop[00m$ cd 
+CSCI 140/  CSCI 241/  Downloads/ Eclipse/   
+]0;jackw@jackw-VirtualBox: ~/Desktop[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop[00m$ cd CSCI 241[1@\[1P[C\ 241
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241[00m$ git colene [K[K[K[K[K[Klone https://github.com/S[KCSCI241W inter2019/lab-1-TheEric960
+The program 'git' is currently not installed. You can install it by typing:
+sudo apt install git
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241[00m$ sude apt install git
+No command 'sude' found, did you mean:
+ Command 'sudo' from package 'sudo-ldap' (universe)
+ Command 'sudo' from package 'sudo' (main)
+sude: command not found
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241[00m$ sude apt install git[C[C[C[1P[1@o
+[sudo] password for jackw: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  libqscintilla2-12v5 libqscintilla2-l10n libqt4-designer libqt4-help
+  linux-headers-4.13.0-36 linux-headers-4.13.0-36-generic
+  linux-image-4.13.0-36-generic linux-image-extra-4.13.0-36-generic
+  monkeystudio-common
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  git-man liberror-perl
+Suggested packages:
+  git-daemon-run | git-daemon-sysvinit git-doc git-el git-email git-gui gitk
+  gitweb git-arch git-cvs git-mediawiki git-svn
+The following NEW packages will be installed:
+  git git-man liberror-perl
+0 upgraded, 3 newly installed, 0 to remove and 432 not upgraded.
+Need to get 3,932 kB of archives.
+After this operation, 25.6 MB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+[33m0% [Working][0m            Get:1 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 liberror-perl all 0.17-1.2 [19.6 kB]
+[33m0% [1 liberror-perl 0 B/19.6 kB 0%][0m[33m                                   7% [Working][0m            Get:2 http://us.archive.ubuntu.com/ubuntu xenial-updates/main amd64 git-man all 1:2.7.4-0ubuntu1.6 [736 kB]
+[33m7% [2 git-man 0 B/736 kB 0%][0m[33m15% [2 git-man 378 kB/736 kB 51%][0m[33m                                 29% [Working][0m             Get:3 http://us.archive.ubuntu.com/ubuntu xenial-updates/main amd64 git amd64 1:2.7.4-0ubuntu1.6 [3,176 kB]
+[33m29% [3 git 0 B/3,176 kB 0%][0m[33m35% [3 git 299 kB/3,176 kB 9%][0m[33m42% [3 git 636 kB/3,176 kB 20%][0m[33m50% [3 git 1,023 kB/3,176 kB 32%][0m[33m57% [3 git 1,383 kB/3,176 kB 44%][0m[33m64% [3 git 1,732 kB/3,176 kB 55%][0m[33m71% [3 git 2,057 kB/3,176 kB 65%][0m[33m76% [3 git 2,334 kB/3,176 kB 73%][0m[33m81% [3 git 2,591 kB/3,176 kB 82%][0m[33m86% [3 git 2,802 kB/3,176 kB 88%]                                   584 kB/s 0s[0m[33m90% [3 git 3,011 kB/3,176 kB 95%]                                   584 kB/s 0s[0m[33m100% [Working]                                                      584 kB/s 0s[0m                                                                               Fetched 3,932 kB in 7s (556 kB/s)
+
+7[0;23r8[1ASelecting previously unselected package liberror-perl.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 262985 files and directories currently installed.)
+Preparing to unpack .../liberror-perl_0.17-1.2_all.deb ...
+7[24;0f[42m[30mProgress: [  0%][49m[39m [..........................................................] 87[24;0f[42m[30mProgress: [  6%][49m[39m [####......................................................] 8Unpacking liberror-perl (0.17-1.2) ...
+7[24;0f[42m[30mProgress: [ 12%][49m[39m [########..................................................] 87[24;0f[42m[30mProgress: [ 18%][49m[39m [###########...............................................] 8Selecting previously unselected package git-man.
+Preparing to unpack .../git-man_1%3a2.7.4-0ubuntu1.6_all.deb ...
+7[24;0f[42m[30mProgress: [ 25%][49m[39m [###############...........................................] 8Unpacking git-man (1:2.7.4-0ubuntu1.6) ...
+7[24;0f[42m[30mProgress: [ 31%][49m[39m [###################.......................................] 87[24;0f[42m[30mProgress: [ 37%][49m[39m [######################....................................] 8Selecting previously unselected package git.
+Preparing to unpack .../git_1%3a2.7.4-0ubuntu1.6_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 43%][49m[39m [##########################................................] 8Unpacking git (1:2.7.4-0ubuntu1.6) ...
+7[24;0f[42m[30mProgress: [ 50%][49m[39m [#############################.............................] 87[24;0f[42m[30mProgress: [ 56%][49m[39m [#################################.........................] 8Processing triggers for man-db (2.7.5-1) ...
+Setting up liberror-perl (0.17-1.2) ...
+7[24;0f[42m[30mProgress: [ 62%][49m[39m [#####################################.....................] 87[24;0f[42m[30mProgress: [ 68%][49m[39m [########################################..................] 8Setting up git-man (1:2.7.4-0ubuntu1.6) ...
+7[24;0f[42m[30mProgress: [ 75%][49m[39m [############################################..............] 87[24;0f[42m[30mProgress: [ 81%][49m[39m [################################################..........] 8Setting up git (1:2.7.4-0ubuntu1.6) ...
+7[24;0f[42m[30mProgress: [ 87%][49m[39m [###################################################.......] 87[24;0f[42m[30mProgress: [ 93%][49m[39m [#######################################################...] 8
+7[0;24r8[1A[J]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241[00m$ sudo apt install gite[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Co[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/CSCI241Wiinter2019/lab-1-TheEric960
+Cloning into 'lab-1-TheEric960'...
+remote: Enumerating objects: 8, done.[K
+remote: Counting objects:  12% (1/8)   [Kremote: Counting objects:  25% (2/8)   [Kremote: Counting objects:  37% (3/8)   [Kremote: Counting objects:  50% (4/8)   [Kremote: Counting objects:  62% (5/8)   [Kremote: Counting objects:  75% (6/8)   [Kremote: Counting objects:  87% (7/8)   [Kremote: Counting objects: 100% (8/8)   [Kremote: Counting objects: 100% (8/8), done.[K
+remote: Compressing objects:  25% (1/4)   [Kremote: Compressing objects:  50% (2/4)   [Kremote: Compressing objects:  75% (3/4)   [Kremote: Compressing objects: 100% (4/4)   [Kremote: Compressing objects: 100% (4/4), done.[K
+remote: Total 8 (delta 0), reused 8 (delta 0), pack-reused 0[K
+Unpacking objects:  12% (1/8)   Unpacking objects:  25% (2/8)   Unpacking objects:  37% (3/8)   Unpacking objects:  50% (4/8)   Unpacking objects:  62% (5/8)   Unpacking objects:  75% (6/8)   Unpacking objects:  87% (7/8)   Unpacking objects: 100% (8/8)   Unpacking objects: 100% (8/8), done.
+Checking connectivity... done.
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241[00m$ cd lab-1-TheEric960/
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git config --global  user.name "Jack Wilson"
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git confic[Kg --global  user.email wilso313@wwu.edu
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ touch writeup.txt
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ i[Kgit add writeup.te[Kxt
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git comiit[K[K[Kmit -m "Added  empt [Ky writeup"
+[master 31b830d] Added empty writeup
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 writeup.txt
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': he  TheEric960
+Password for 'https://TheEric960@github.com': 
+Counting objects: 3, done.
+Compressing objects:  50% (1/2)   Compressing objects: 100% (2/2)   Compressing objects: 100% (2/2), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 318 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/CSCI241Winter2019/lab-1-TheEric960
+   1523c09..31b830d  master -> master
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git apushcommit -m "Added  empty writeup"[A]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ [C[C[C[C[1Padd writeup.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git add writeup.txtpush[Kcommit -m "Added  empty writeup"[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpart 1 (names) to writepu[K[Kup"
+[master ffea487] Added part 1 (names) to writeup
+ 1 file changed, 1 insertion(+)
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working directory clean
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git statuscommit -m "Added  part 1 (names) to writeup"[A]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ [C[C[C[C[1Padd writeup.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git add writeup.txt[9Pstatuscommit -m "Added  part 1 (names) to writeup"[C[C[1P[1@2[C[C[C[C[C[C[1P[1P[1P[1P[C[1P[1@h[1@o[1@b[1@b[1@y
+[master 27d1582] Added part 2 (hobby) to writeup
+ 1 file changed, 1 insertion(+)
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git stt[Katus
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+nothing to commit, working directory clean
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ gut[K[Kit push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': TheEric960
+Password for 'https://TheEric960@github.com': 
+Counting objects: 6, done.
+Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
+Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 550 bytes | 0 bytes/s, done.
+Total 6 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2), completed with 1 local object.[K
+To https://github.com/CSCI241Winter2019/lab-1-TheEric960
+   31b830d..27d1582  master -> master
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git config --gobal [K[K[K[K[K[Kl[Kglobal  push.default simple
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ touch username.txt
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ touch username.txt[8Pgit status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31musername.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git add username.txt [A
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ comm[K[K[K[Kgit commit -m "added  username.txt"
+[master af1d23a] added username.txt
+ 1 file changed, 1 insertion(+)
+ create mode 100644 username.txt
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git restet[K[K[Ket writeup.tx t
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git checkout 
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git rese[Ket
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working directory clean
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ touch dummy.txt
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git rm dummy.txt
+fatal: pathspec 'dummy.txt' did not match any files
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git add dummy.txt
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git rm dummy.txt
+error: the following file has changes staged in the index:
+    dummy.txt
+(use --cached to keep the file, or -f to force removal)
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git commit -m "testi ng rm function"
+[master af2aa67] testing rm function
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 dummy.txt
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git commit -m "testinng rm function"[A]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ [C[C[C[C[4Prm dummy.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+rm 'dummy.txt'
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git mv writeup.txt s r[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K / src
+fatal: /src: '/src' is outside repository
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git mv writeup.txt /ssrc[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K s rc
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git mv writeup.txt srrc[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cswriteup.txt src[A]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ [C[C[C[C[C[C[C[Crwriteup.txt src[A]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ [C[C[C[C[C[C[C[C[Ccwriteup.txt src[A]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ [C[C[C[C[C[C[C[C[C[C/writeup.txt src[A]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[K[K[K[K lav[Kb-1-TheEric960
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git mv src/writeup.txxt lab-1-TheEric960[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[Kv writeup.txt srrc[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K lav[Kb-1-TheEric 960 writeup.txt
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git blame
+usage: git blame [<options>] [<rev-opts>] [<rev>] [--] <file>
+
+    <rev-opts> are documented in git-rev-list(1)
+
+    --incremental         Show blame entries as we find them, incrementally
+    -b                    Show blank SHA-1 for boundary commits (Default: off)
+    --root                Do not treat root commits as boundaries (Default: off)
+    --show-stats          Show work cost statistics
+    --score-debug         Show output score for blame entries
+    -f, --show-name       Show original filename (Default: auto)
+    -n, --show-number     Show original linenumber (Default: off)
+    -p, --porcelain       Show in a format designed for machine consumption
+    --line-porcelain      Show porcelain format with per-line commit information
+    -c                    Use the same output mode as git-annotate (Default: off)
+    -t                    Show raw timestamp (Default: off)
+    -l                    Show long commit SHA1 (Default: off)
+    -s                    Suppress author name and timestamp (Default: off)
+    -e, --show-email      Show author email instead of name (Default: off)
+    -w                    Ignore whitespace differences
+    --minimal             Spend extra cycles to find better match
+    -S <file>             Use revisions from <file> instead of calling git-rev-list
+    --contents <file>     Use <file>'s contents as the final image
+    -C[<score>]           Find line copies within and across files
+    -M[<score>]           Find line movements within and across files
+    -L <n,m>              Process only line range n,m, counting from 1
+    --abbrev[=<n>]        use <n> digits to display SHA-1s
+
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git blame username.t xt
+[?1h=af1d23aa (Jack Wilson 2019-01-09 14:10:07 -0800 1) Jack Wilson,wilso313,TheEric9[m 60[m
+[K[?1l>]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git log
+[?1h=[33mcommit af2aa675330b241ceb42b96728ac7a6f508c3f66[m[m
+Author: Jack Wilson <wilso313@wwu.edu>[m
+Date:   Wed Jan 9 14:12:29 2019 -0800[m
+[m
+    testing rm function[m
+[m
+[33mcommit af1d23aa0549ccea4281f2590398d55fb85a3375[m[m
+Author: Jack Wilson <wilso313@wwu.edu>[m
+Date:   Wed Jan 9 14:10:07 2019 -0800[m
+[m
+    added username.txt[m
+[m
+[33mcommit 27d158248d2aee8045d71f07258b27681b67a9dc[m[m
+Author: Jack Wilson <wilso313@wwu.edu>[m
+Date:   Wed Jan 9 14:07:19 2019 -0800[m
+[m
+    Added part 2 (hobby) to writeup[m
+[m
+[33mcommit ffea48786b2d1c259c502743e6df7e50be8c1309[m[m
+Author: Jack Wilson <wilso313@wwu.edu>[m
+Date:   Wed Jan 9 14:06:23 2019 -0800[m
+[m
+    Added part 1 (names) to writeup[m
+:[K[K[K:[K[K:[K[K[7mNo next tag  (press RETURN)[27m[24;1H[K[K:[K[K:[K[K:[K[K:[K[K[K:[K[K:[K[K[7mNo next tag  (press RETURN)[27m[24;1H[K[K:[K[K[m
+:[K[K[HM[33mcommit af2aa675330b241ceb42b96728ac7a6f508c3f66[m[m
+[24;1H[K:[K[K:[K[K[7mNo next tag  (press RETURN)[27m[24;1H[K[K:[K[K:[K[K[K:[K[K:[K[K[m
+[33mcommit 31b830d459a55c7b11e25a02f42f83d45e80e9e3[m[m
+Author: Jack Wilson <wilso313@wwu.edu>[m
+Date:   Wed Jan 9 14:04:12 2019 -0800[m
+[m
+    Added empty writeup[m
+[m
+[33mcommit 1523c09e41bb264a6f420fcd78d1a7d6e44a5340[m[m
+Author: majeskn <majeskn@wwu.edu>[m
+Date:   Mon Jan 7 20:49:19 2019 -0800[m
+[m
+    Adding setup for gradle[m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K
+[1]+  Stopped                 git log
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ [K[?1l>scipt     git diff   username.txt
+git diff username.tx t
+[?1h=[K[?1l>]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git diff username.txtt
+[?1h=[K[?1l>]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git commit -m "m[Kpart  14 i[Kfinished:[K"
+[master 15adb65] part 14 finished
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 dummy.txt
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git push
+Username for 'https://github.com': TheEric960
+Password for 'https://TheEric960@github.com': 
+Counting objects: 7, done.
+Compressing objects:  20% (1/5)   Compressing objects:  40% (2/5)   Compressing objects:  60% (3/5)   Compressing objects:  80% (4/5)   Compressing objects: 100% (5/5)   Compressing objects: 100% (5/5), done.
+Writing objects:  28% (2/7)   Writing objects:  42% (3/7)   Writing objects:  71% (5/7)   Writing objects:  85% (6/7)   Writing objects: 100% (7/7)   Writing objects: 100% (7/7), 693 bytes | 0 bytes/s, done.
+Total 7 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:  50% (1/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2), done.[K
+To https://github.com/CSCI241Winter2019/lab-1-TheEric960
+   27d1582..15adb65  master -> master
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git checkout -b new[K[K[Kb[Kques tion3
+Switched to a new branch 'question3'
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git commit [K[K[K[K[K[K[Kadd writeup.txt
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git commit -m "added  part 3 to [K[K[K[K to wie[K[Kriteup"
+[question3 1d9b630] added part 3 to writeup
+ 1 file changed, 1 insertion(+)
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git branch master
+fatal: A branch named 'master' already exists.
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git checkout master
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git merge question3
+Updating 15adb65..1d9b630
+Fast-forward
+ writeup.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ gut b===[K[K[K[K[K[K[Kit branh[Kch -d questi on [K3
+Deleted branch question3 (was 1d9b630).
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git commit -m " d[K[Kdelet ed question3b[K [K branch"
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working directory clean
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ git push
+Username for 'https://github.com': TheEric960
+Password for 'https://TheEric960@github.com': 
+Counting objects: 3, done.
+Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 331 bytes | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/CSCI241Winter2019/lab-1-TheEric960
+   15adb65..1d9b630  master -> master
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ gradle build
+The program 'gradle' is currently not installed. You can install it by typing:
+sudo apt install gradle
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ au[K[Ksudo ab[Kpt install gra dle
+[sudo] password for jackw: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  libqscintilla2-12v5 libqscintilla2-l10n libqt4-designer libqt4-help
+  linux-headers-4.13.0-36 linux-headers-4.13.0-36-generic
+  linux-image-4.13.0-36-generic linux-image-extra-4.13.0-36-generic
+  monkeystudio-common
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  antlr bnd findbugs groovy2 ivy java-wrappers javascript-common libantlr-java
+  libaopalliance-java libatinject-jsr330-api-java libbcel-java libbcpg-java
+  libbcprov-java libbindex-java libbsf-java libbsh-java libcdi-api-java
+  libclassworlds-java libcommons-io-java libcommons-lang-java
+  libcommons-lang3-java libcommons-net-java libcommons-net2-java libdom4j-java
+  libdoxia-core-java libeclipse-aether-java
+  libgeronimo-interceptor-3.0-spec-java libgeronimo-jta-1.1-spec-java
+  libgoogle-gson-java libgpars-groovy-java libgradle-core-java
+  libgradle-plugins-java libguava-java libguice-java libhawtjni-runtime-java
+  libhttpclient-java libhttpcore-java libjansi-java libjansi-native-java
+  libjarjar-java libjatl-java libjaxen-java libjaxp1.3-java libjcifs-java
+  libjcip-annotations-java libjcommander-java libjcsp-java libjdepend-java
+  libjdom1-java libjetty-extra libjetty-extra-java libjetty-java
+  libjformatstring-java libjline2-java libjna-java libjna-jni libjs-jquery
+  libjsoup-java libjsr166y-java libjsr305-java libkryo-java liblog4j1.2-java
+  liblogback-java libmail-java libmaven-parent-java libmaven2-core-java
+  libmaven3-core-java libminlog-java libnative-platform-java
+  libnative-platform-jni libnekohtml-java libnetty-3.9-java
+  libplexus-ant-factory-java libplexus-archiver-java
+  libplexus-bsh-factory-java libplexus-cipher-java libplexus-classworlds-java
+  libplexus-classworlds2-java libplexus-cli-java
+  libplexus-component-annotations-java libplexus-component-metadata-java
+  libplexus-container-default-java libplexus-container-default1.5-java
+  libplexus-containers-java libplexus-containers1.5-java
+  libplexus-interactivity-api-java libplexus-interpolation-java
+  libplexus-io-java libplexus-sec-dispatcher-java libplexus-utils-java
+  libplexus-utils2-java libpolyglot-maven-java libqdox-java libqdox2-java
+  libreflectasm-java librhino-java libservlet2.5-java libsisu-inject-java
+  libsisu-plexus-java libslf4j-java libtomcat8-java libwagon-java
+  libwagon2-java libxalan2-java libxbean-java libxerces2-java
+  libxml-commons-external-java libxml-commons-resolver1.1-java libxom-java
+  libxpp2-java libxpp3-java libxstream-java libyaml-snake-java testng
+Suggested packages:
+  groovy-doc libjsch-agent-proxy-java ivy-doc apache2 | lighttpd | httpd
+  libaopalliance-java-doc libatinject-jsr330-api-java-doc libbcel-java-doc
+  libbcpg-java-doc libbcprov-java-doc bsh rhino libclassworlds-java-doc
+  libcommons-io-java-doc libcommons-lang-java-doc libcommons-lang3-java-doc
+  libcommons-net-java-doc libcommons-net2-java-doc libdom4j-java-doc
+  libgeronimo-jta-java-doc libgoogle-gson-java-doc libgpars-groovy-java-doc
+  libcglib-java libjaxp1.3-java-gcj libjcifs-java-doc libjcommander-java-doc
+  libjcsp-java-doc libjdom1-java-doc jetty libjetty-java-doc libjna-java-doc
+  libjsoup-java-doc libjsr305-java-doc libgnumail-java liblog4j1.2-java-doc
+  libjanino-java libmail-java-doc libnekohtml-java-doc
+  libplexus-cipher-java-doc libplexus-classworlds-java-doc
+  libplexus-classworlds2-java-doc libplexus-cli-java-doc
+  libplexus-container-default-java-doc libplexus-interactivity-api-java-doc
+  libplexus-interpolation-java-doc libplexus-sec-dispatcher-java-doc
+  libplexus-utils-java-doc libplexus-utils2-java-doc
+  libpolyglot-maven-java-doc libqdox-java-doc libqdox2-java-doc tomcat8
+  libwagon-java-doc libxalan2-java-doc libxsltc-java libspring-beans-java
+  libspring-context-java libspring-core-java libspring-web-java
+  libxerces2-java-doc libxerces2-java-gcj libxml-commons-resolver1.1-java-doc
+  libxom-java-doc libjdom2-java libjettison-java libjoda-time-java
+  libstax-java libstax2-api-java libwoodstox-java
+The following NEW packages will be installed:
+  antlr bnd findbugs gradle groovy2 ivy java-wrappers javascript-common
+  libantlr-java libaopalliance-java libatinject-jsr330-api-java libbcel-java
+  libbcpg-java libbcprov-java libbindex-java libbsf-java libbsh-java
+  libcdi-api-java libclassworlds-java libcommons-io-java libcommons-lang-java
+  libcommons-lang3-java libcommons-net-java libcommons-net2-java libdom4j-java
+  libdoxia-core-java libeclipse-aether-java
+  libgeronimo-interceptor-3.0-spec-java libgeronimo-jta-1.1-spec-java
+  libgoogle-gson-java libgpars-groovy-java libgradle-core-java
+  libgradle-plugins-java libguava-java libguice-java libhawtjni-runtime-java
+  libhttpclient-java libhttpcore-java libjansi-java libjansi-native-java
+  libjarjar-java libjatl-java libjaxen-java libjaxp1.3-java libjcifs-java
+  libjcip-annotations-java libjcommander-java libjcsp-java libjdepend-java
+  libjdom1-java libjetty-extra libjetty-extra-java libjetty-java
+  libjformatstring-java libjline2-java libjna-java libjna-jni libjs-jquery
+  libjsoup-java libjsr166y-java libjsr305-java libkryo-java liblog4j1.2-java
+  liblogback-java libmail-java libmaven-parent-java libmaven2-core-java
+  libmaven3-core-java libminlog-java libnative-platform-java
+  libnative-platform-jni libnekohtml-java libnetty-3.9-java
+  libplexus-ant-factory-java libplexus-archiver-java
+  libplexus-bsh-factory-java libplexus-cipher-java libplexus-classworlds-java
+  libplexus-classworlds2-java libplexus-cli-java
+  libplexus-component-annotations-java libplexus-component-metadata-java
+  libplexus-container-default-java libplexus-container-default1.5-java
+  libplexus-containers-java libplexus-containers1.5-java
+  libplexus-interactivity-api-java libplexus-interpolation-java
+  libplexus-io-java libplexus-sec-dispatcher-java libplexus-utils-java
+  libplexus-utils2-java libpolyglot-maven-java libqdox-java libqdox2-java
+  libreflectasm-java librhino-java libservlet2.5-java libsisu-inject-java
+  libsisu-plexus-java libslf4j-java libtomcat8-java libwagon-java
+  libwagon2-java libxalan2-java libxbean-java libxerces2-java
+  libxml-commons-external-java libxml-commons-resolver1.1-java libxom-java
+  libxpp2-java libxpp3-java libxstream-java libyaml-snake-java testng
+0 upgraded, 115 newly installed, 0 to remove and 432 not upgraded.
+Need to get 70.1 MB of archives.
+After this operation, 108 MB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+[33m0% [Working][0m            Get:1 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libyaml-snake-java all 1.12-2 [244 kB]
+[33m0% [1 libyaml-snake-java 0 B/244 kB 0%][0m[33m                                       0% [Working][0m            Get:2 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 libantlr-java all 2.7.7+dfsg-6ubuntu1 [427 kB]
+[33m0% [2 libantlr-java 0 B/427 kB 0%][0m[33m1% [2 libantlr-java 422 kB/427 kB 99%][0m[33m                                      1% [Working][0m            Get:3 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 antlr all 2.7.7+dfsg-6ubuntu1 [6,432 B]
+[33m1% [3 antlr 0 B/6,432 B 0%][0m[33m                           1% [Working][0m            Get:4 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 java-wrappers all 0.1.28 [9,456 B]
+[33m1% [4 java-wrappers 0 B/9,456 B 0%][0m[33m                                   1% [Working][0m            Get:5 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 bnd all 2.4.1-3 [2,939 kB]
+[33m1% [5 bnd 0 B/2,939 kB 0%][0m[33m2% [5 bnd 421 kB/2,939 kB 14%][0m[33m2% [5 bnd 797 kB/2,939 kB 27%][0m[33m3% [5 bnd 1,227 kB/2,939 kB 42%][0m[33m3% [5 bnd 1,635 kB/2,939 kB 56%][0m[33m4% [5 bnd 2,047 kB/2,939 kB 70%][0m[33m4% [5 bnd 2,480 kB/2,939 kB 84%][0m[33m5% [5 bnd 2,894 kB/2,939 kB 98%][0m[33m                                5% [Working][0m            Get:6 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 ivy all 2.4.0-3 [1,164 kB]
+[33m5% [6 ivy 0 B/1,164 kB 0%][0m[33m6% [6 ivy 433 kB/1,164 kB 37%][0m[33m6% [6 ivy 848 kB/1,164 kB 73%][0m[33m7% [Working]                                                  779 kB/s 1min 23s[0m                                                                               Get:7 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libbsf-java all 1:2.4.0-5build1 [71.2 kB]
+[33m7% [7 libbsf-java 0 B/71.2 kB 0%]                             779 kB/s 1min 23s[0m[33m7% [Working]                                                  779 kB/s 1min 23s[0m                                                                               Get:8 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libhawtjni-runtime-java all 1.10-1 [54.0 kB]
+[33m7% [8 libhawtjni-runtime-java 0 B/54.0 kB 0%]                 779 kB/s 1min 23s[0m[33m7% [Working]                                                  779 kB/s 1min 23s[0m                                                                               Get:9 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjansi-native-java all 1.0-4 [35.3 kB]
+[33m7% [9 libjansi-native-java 0 B/35.3 kB 0%]                    779 kB/s 1min 23s[0m[33m7% [Working]                                                  779 kB/s 1min 23s[0m                                                                               Get:10 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjansi-java all 1.4-3 [57.4 kB]
+[33m7% [10 libjansi-java 0 B/57.4 kB 0%]                          779 kB/s 1min 23s[0m[33m7% [Working]                                                  779 kB/s 1min 23s[0m                                                                               Get:11 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjline2-java all 2.11-4 [107 kB]
+[33m7% [11 libjline2-java 0 B/107 kB 0%]                          779 kB/s 1min 23s[0m[33m8% [Working]                                                  779 kB/s 1min 23s[0m                                                                               Get:12 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libqdox-java all 1.12.1-1 [165 kB]
+[33m8% [12 libqdox-java 0 B/165 kB 0%]                            779 kB/s 1min 23s[0m[33m8% [Working]                                                  779 kB/s 1min 23s[0m                                                                               Get:13 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libservlet2.5-java all 6.0.45+dfsg-1 [212 kB]
+[33m8% [13 libservlet2.5-java 0 B/212 kB 0%]                      779 kB/s 1min 23s[0m[33m9% [Working]                                                  779 kB/s 1min 22s[0m                                                                               Get:14 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libxpp3-java all 1.1.4c-2build1 [364 kB]
+[33m9% [14 libxpp3-java 0 B/364 kB 0%]                            779 kB/s 1min 22s[0m[33m9% [14 libxpp3-java 281 kB/364 kB 77%]                        779 kB/s 1min 22s[0m[33m9% [Working]                                                  779 kB/s 1min 22s[0m                                                                               Get:15 http://us.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 libxstream-java all 1.4.8-1ubuntu0.1 [590 kB]
+[33m9% [15 libxstream-java 0 B/590 kB 0%]                         779 kB/s 1min 22s[0m[33m9% [15 libxstream-java 270 kB/590 kB 46%]                     779 kB/s 1min 22s[0m[33m10% [15 libxstream-java 570 kB/590 kB 97%]                    779 kB/s 1min 21s[0m[33m10% [Working]                                                 779 kB/s 1min 21s[0m                                                                               Get:16 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 groovy2 all 2.4.5-1 [13.0 MB]
+[33m10% [16 groovy2 0 B/13.0 MB 0%]                               779 kB/s 1min 21s[0m[33m10% [16 groovy2 275 kB/13.0 MB 2%]                            779 kB/s 1min 21s[0m[33m11% [16 groovy2 585 kB/13.0 MB 5%]                            779 kB/s 1min 20s[0m[33m11% [16 groovy2 871 kB/13.0 MB 7%]                            779 kB/s 1min 20s[0m[33m11% [16 groovy2 1,158 kB/13.0 MB 9%]                          466 kB/s 2min 14s[0m[33m12% [16 groovy2 1,583 kB/13.0 MB 12%]                         466 kB/s 2min 13s[0m[33m12% [16 groovy2 1,960 kB/13.0 MB 15%]                         466 kB/s 2min 12s[0m[33m13% [16 groovy2 2,345 kB/13.0 MB 18%]                         466 kB/s 2min 11s[0m[33m13% [16 groovy2 2,773 kB/13.0 MB 21%]                         466 kB/s 2min 10s[0m[33m14% [16 groovy2 3,213 kB/13.0 MB 25%]                          466 kB/s 2min 9s[0m[33m14% [16 groovy2 3,645 kB/13.0 MB 28%]                          466 kB/s 2min 8s[0m[33m15% [16 groovy2 4,075 kB/13.0 MB 31%]                          466 kB/s 2min 7s[0m[33m15% [16 groovy2 4,516 kB/13.0 MB 35%]                          466 kB/s 2min 6s[0m[33m16% [16 groovy2 4,942 kB/13.0 MB 38%]                          466 kB/s 2min 6s[0m[33m16% [16 groovy2 5,293 kB/13.0 MB 41%]                          466 kB/s 2min 5s[0m[33m16% [16 groovy2 5,722 kB/13.0 MB 44%]                          466 kB/s 2min 4s[0m[33m17% [16 groovy2 5,920 kB/13.0 MB 46%]                         792 kB/s 1min 12s[0m[33m17% [16 groovy2 6,350 kB/13.0 MB 49%]                         792 kB/s 1min 12s[0m[33m18% [16 groovy2 6,794 kB/13.0 MB 52%]                         792 kB/s 1min 11s[0m[33m18% [16 groovy2 7,223 kB/13.0 MB 56%]                         792 kB/s 1min 11s[0m[33m19% [16 groovy2 7,645 kB/13.0 MB 59%]                         792 kB/s 1min 10s[0m[33m19% [16 groovy2 8,086 kB/13.0 MB 62%]                         792 kB/s 1min 10s[0m[33m20% [16 groovy2 8,512 kB/13.0 MB 66%]                          792 kB/s 1min 9s[0m[33m20% [16 groovy2 8,942 kB/13.0 MB 69%]                          792 kB/s 1min 9s[0m[33m21% [16 groovy2 9,300 kB/13.0 MB 72%]                          792 kB/s 1min 8s[0m[33m21% [16 groovy2 9,685 kB/13.0 MB 75%]                          792 kB/s 1min 8s[0m[33m22% [16 groovy2 10.1 MB/13.0 MB 78%]                           792 kB/s 1min 7s[0m[33m22% [16 groovy2 10.6 MB/13.0 MB 81%]                           792 kB/s 1min 7s[0m[33m23% [16 groovy2 11.0 MB/13.0 MB 85%]                           842 kB/s 1min 2s[0m[33m23% [16 groovy2 11.4 MB/13.0 MB 88%]                           842 kB/s 1min 2s[0m[33m23% [16 groovy2 11.8 MB/13.0 MB 91%]                           842 kB/s 1min 1s[0m[33m24% [16 groovy2 12.2 MB/13.0 MB 94%]                           842 kB/s 1min 1s[0m[33m24% [16 groovy2 12.7 MB/13.0 MB 98%]                               842 kB/s 60s[0m[33m25% [Working]                                                      842 kB/s 60s[0m                                                                               Get:17 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libatinject-jsr330-api-java all 1.0+ds1-2 [22.7 kB]
+[33m25% [17 libatinject-jsr330-api-java 0 B/22.7 kB 0%]                842 kB/s 60s[0m[33m25% [Working]                                                      842 kB/s 60s[0m                                                                               Get:18 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libcommons-io-java all 2.4-2 [176 kB]
+[33m25% [18 libcommons-io-java 0 B/176 kB 0%]                          842 kB/s 60s[0m[33m26% [Working]                                                      842 kB/s 59s[0m                                                                               Get:19 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libcommons-lang-java all 2.6-6ubuntu2 [267 kB]
+[33m26% [19 libcommons-lang-java 0 B/267 kB 0%]                        842 kB/s 59s[0m[33m26% [Working]                                                      842 kB/s 59s[0m                                                                               Get:20 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjsr305-java all 0.1~+svn49-9 [26.4 kB]
+[33m26% [20 libjsr305-java 0 B/26.4 kB 0%]                             842 kB/s 59s[0m[33m26% [Working]                                                      842 kB/s 59s[0m                                                                               Get:21 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libguava-java all 19.0-1 [2,028 kB]
+[33m26% [21 libguava-java 0 B/2,028 kB 0%]                             842 kB/s 59s[0m[33m27% [21 libguava-java 438 kB/2,028 kB 22%]                         842 kB/s 59s[0m[33m27% [21 libguava-java 876 kB/2,028 kB 43%]                         842 kB/s 58s[0m[33m28% [21 libguava-java 1,302 kB/2,028 kB 64%]                       842 kB/s 58s[0m[33m28% [21 libguava-java 1,730 kB/2,028 kB 85%]                       842 kB/s 57s[0m[33m29% [Working]                                                      842 kB/s 57s[0m                                                                               Get:22 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libhttpcore-java all 4.4.4-1 [573 kB]
+[33m29% [22 libhttpcore-java 0 B/573 kB 0%]                            842 kB/s 57s[0m[33m29% [22 libhttpcore-java 430 kB/573 kB 75%]                        790 kB/s 60s[0m[33m30% [Working]                                                      790 kB/s 60s[0m                                                                               Get:23 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libhttpclient-java all 4.5.1-1 [694 kB]
+[33m30% [23 libhttpclient-java 0 B/694 kB 0%]                          790 kB/s 60s[0m[33m30% [23 libhttpclient-java 430 kB/694 kB 62%]                      790 kB/s 59s[0m[33m30% [Working]                                                      790 kB/s 59s[0m                                                                               Get:24 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjarjar-java all 1.4+svn142-4ubuntu1 [120 kB]
+[33m30% [24 libjarjar-java 0 B/120 kB 0%]                              790 kB/s 59s[0m[33m31% [Working]                                                      790 kB/s 59s[0m                                                                               Get:25 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjcifs-java all 1.3.18-2 [374 kB]
+[33m31% [25 libjcifs-java 0 B/374 kB 0%]                               790 kB/s 59s[0m[33m31% [Working]                                                      790 kB/s 58s[0m                                                                               Get:26 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjcip-annotations-java all 20060626-5 [11.6 kB]
+[33m31% [26 libjcip-annotations-java 0 B/11.6 kB 0%]                   790 kB/s 58s[0m[33m32% [Working]                                                      790 kB/s 58s[0m                                                                               Get:27 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjna-jni amd64 4.2.2-1 [29.9 kB]
+[33m32% [27 libjna-jni 0 B/29.9 kB 0%]                                 790 kB/s 58s[0m[33m32% [Working]                                                      790 kB/s 58s[0m                                                                               Get:28 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjna-java all 4.2.2-1 [152 kB]
+[33m32% [28 libjna-java 0 B/152 kB 0%]                                 790 kB/s 58s[0m[33m32% [Working]                                                      790 kB/s 58s[0m                                                                               Get:29 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libminlog-java all 1.2-3 [6,472 B]
+[33m32% [29 libminlog-java 0 B/6,472 B 0%]                             790 kB/s 58s[0m[33m32% [Working]                                                      790 kB/s 58s[0m                                                                               Get:30 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libreflectasm-java all 1.05-3 [17.8 kB]
+[33m32% [30 libreflectasm-java 0 B/17.8 kB 0%]                         790 kB/s 58s[0m[33m33% [Working]                                                      790 kB/s 58s[0m                                                                               Get:31 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libkryo-java all 2.20-5 [153 kB]
+[33m33% [31 libkryo-java 0 B/153 kB 0%]                                790 kB/s 58s[0m[33m33% [Working]                                                      790 kB/s 58s[0m                                                                               Get:32 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libslf4j-java all 1.7.14-3 [124 kB]
+[33m33% [32 libslf4j-java 0 B/124 kB 0%]                               790 kB/s 58s[0m[33m33% [Working]                                                      790 kB/s 58s[0m                                                                               Get:33 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 liblogback-java all 1:1.1.3-2 [627 kB]
+[33m33% [33 liblogback-java 0 B/627 kB 0%]                             790 kB/s 58s[0m[33m34% [33 liblogback-java 440 kB/627 kB 70%]                         790 kB/s 57s[0m[33m34% [Working]                                                      790 kB/s 57s[0m                                                                               Get:34 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libnative-platform-jni amd64 0.10+dfsg-1build1 [9,920 B]
+[33m34% [34 libnative-platform-jni 0 B/9,920 B 0%]                     790 kB/s 57s[0m[33m34% [Working]                                                      790 kB/s 57s[0m                                                                               Get:35 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libnative-platform-java all 0.10+dfsg-1build1 [47.5 kB]
+[33m34% [35 libnative-platform-java 0 B/47.5 kB 0%]                    790 kB/s 57s[0m[33m34% [Working]                                                      790 kB/s 57s[0m                                                                               Get:36 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 libxml-commons-resolver1.1-java all 1.2-7build1 [91.6 kB]
+[33m34% [36 libxml-commons-resolver1.1-java 0 B/91.6 kB 0%]            790 kB/s 57s[0m[33m35% [Working]                                                      790 kB/s 57s[0m                                                                               Get:37 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 libxml-commons-external-java all 1.4.01-2build1 [245 kB]
+[33m35% [37 libxml-commons-external-java 0 B/245 kB 0%]                790 kB/s 57s[0m[33m35% [Working]                                                      790 kB/s 56s[0m                                                                               Get:38 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 libxerces2-java all 2.11.0-7 [1,362 kB]
+[33m35% [38 libxerces2-java 0 B/1,362 kB 0%]                           790 kB/s 56s[0m[33m36% [38 libxerces2-java 438 kB/1,362 kB 32%]                       790 kB/s 56s[0m[33m36% [38 libxerces2-java 843 kB/1,362 kB 62%]                       790 kB/s 55s[0m[33m37% [38 libxerces2-java 1,267 kB/1,362 kB 93%]                 650 kB/s 1min 7s[0m[33m37% [Working]                                                  650 kB/s 1min 6s[0m                                                                               Get:39 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libnekohtml-java all 1.9.22-1 [120 kB]
+[33m37% [39 libnekohtml-java 0 B/120 kB 0%]                        650 kB/s 1min 6s[0m[33m37% [Working]                                                  650 kB/s 1min 6s[0m                                                                               Get:40 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libxbean-java all 4.5-1 [815 kB]
+[33m37% [40 libxbean-java 0 B/815 kB 0%]                           650 kB/s 1min 6s[0m[33m38% [40 libxbean-java 435 kB/815 kB 53%]                       650 kB/s 1min 6s[0m[33m38% [Working]                                                  650 kB/s 1min 5s[0m                                                                               Get:41 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libgradle-core-java all 2.10-1 [2,975 kB]
+[33m38% [41 libgradle-core-java 0 B/2,975 kB 0%]                   650 kB/s 1min 5s[0m[33m39% [41 libgradle-core-java 427 kB/2,975 kB 14%]               650 kB/s 1min 4s[0m[33m39% [41 libgradle-core-java 871 kB/2,975 kB 29%]               650 kB/s 1min 4s[0m[33m40% [41 libgradle-core-java 1,300 kB/2,975 kB 44%]             650 kB/s 1min 3s[0m[33m40% [41 libgradle-core-java 1,721 kB/2,975 kB 58%]             650 kB/s 1min 2s[0m[33m41% [41 libgradle-core-java 2,107 kB/2,975 kB 71%]             650 kB/s 1min 2s[0m[33m41% [41 libgradle-core-java 2,472 kB/2,975 kB 83%]             650 kB/s 1min 1s[0m[33m42% [41 libgradle-core-java 2,900 kB/2,975 kB 97%]             650 kB/s 1min 1s[0m[33m42% [Working]                                                      650 kB/s 60s[0m                                                                               Get:42 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libbcel-java all 6.0~rc3-2ubuntu1 [561 kB]
+[33m42% [42 libbcel-java 0 B/561 kB 0%]                                650 kB/s 60s[0m[33m42% [42 libbcel-java 418 kB/561 kB 75%]                            650 kB/s 60s[0m[33m43% [Working]                                                      650 kB/s 60s[0m                                                                               Get:43 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjaxen-java all 1.1.6-1ubuntu1 [206 kB]
+[33m43% [43 libjaxen-java 0 B/206 kB 0%]                               650 kB/s 60s[0m[33m43% [Working]                                                      778 kB/s 49s[0m                                                                               Get:44 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libxpp2-java all 2.1.10-7build1 [162 kB]
+[33m43% [44 libxpp2-java 0 B/162 kB 0%]                                778 kB/s 49s[0m[33m44% [Working]                                                      778 kB/s 49s[0m                                                                               Get:45 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libdom4j-java all 1.6.1+dfsg.3-2ubuntu1 [323 kB]
+[33m44% [45 libdom4j-java 0 B/323 kB 0%]                               778 kB/s 49s[0m[33m44% [Working]                                                      778 kB/s 49s[0m                                                                               Get:46 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjdepend-java all 2.9.1-1 [246 kB]
+[33m44% [46 libjdepend-java 0 B/246 kB 0%]                             778 kB/s 49s[0m[33m45% [Working]                                                      778 kB/s 48s[0m                                                                               Get:47 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjformatstring-java amd64 0.10~20131207-1 [32.9 kB]
+[33m45% [47 libjformatstring-java 0 B/32.9 kB 0%]                      778 kB/s 48s[0m[33m45% [Working]                                                      778 kB/s 48s[0m                                                                               Get:48 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 findbugs all 3.0.1-2 [3,641 kB]
+[33m45% [48 findbugs 0 B/3,641 kB 0%]                                  778 kB/s 48s[0m[33m45% [48 findbugs 424 kB/3,641 kB 12%]                              778 kB/s 48s[0m[33m46% [48 findbugs 866 kB/3,641 kB 24%]                              778 kB/s 47s[0m[33m46% [48 findbugs 1,289 kB/3,641 kB 35%]                            778 kB/s 47s[0m[33m47% [48 findbugs 1,724 kB/3,641 kB 47%]                            778 kB/s 46s[0m[33m47% [48 findbugs 2,127 kB/3,641 kB 58%]                            778 kB/s 46s[0m[33m48% [48 findbugs 2,610 kB/3,641 kB 72%]                            778 kB/s 45s[0m[33m48% [48 findbugs 3,027 kB/3,641 kB 83%]                            778 kB/s 45s[0m[33m49% [48 findbugs 3,417 kB/3,641 kB 94%]                            778 kB/s 44s[0m[33m49% [Working]                                                      778 kB/s 44s[0m                                                                               Get:49 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libbcprov-java all 1.51-4ubuntu1 [2,244 kB]
+[33m49% [49 libbcprov-java 0 B/2,244 kB 0%]                            778 kB/s 44s[0m[33m50% [49 libbcprov-java 438 kB/2,244 kB 20%]                        793 kB/s 42s[0m[33m50% [49 libbcprov-java 876 kB/2,244 kB 39%]                        793 kB/s 42s[0m[33m51% [49 libbcprov-java 1,308 kB/2,244 kB 58%]                      793 kB/s 41s[0m[33m51% [49 libbcprov-java 1,733 kB/2,244 kB 77%]                      793 kB/s 41s[0m[33m52% [49 libbcprov-java 2,173 kB/2,244 kB 97%]                      793 kB/s 40s[0m[33m52% [Working]                                                      793 kB/s 40s[0m                                                                               Get:50 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libbcpg-java all 1.51-4ubuntu1 [205 kB]
+[33m52% [50 libbcpg-java 0 B/205 kB 0%]                                793 kB/s 40s[0m[33m52% [Working]                                                      793 kB/s 40s[0m                                                                               Get:51 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libclassworlds-java all 1.1-final-5 [39.3 kB]
+[33m52% [51 libclassworlds-java 0 B/39.3 kB 0%]                        793 kB/s 40s[0m[33m52% [Working]                                                      793 kB/s 40s[0m                                                                               Get:52 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libgoogle-gson-java all 2.4-1 [189 kB]
+[33m52% [52 libgoogle-gson-java 0 B/189 kB 0%]                         793 kB/s 40s[0m[33m53% [Working]                                                      793 kB/s 40s[0m                                                                               Get:53 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjatl-java all 0.2.2-2 [25.6 kB]
+[33m53% [53 libjatl-java 0 B/25.6 kB 0%]                               793 kB/s 40s[0m[33m53% [Working]                                                      793 kB/s 40s[0m                                                                               Get:54 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjetty-java all 6.1.26-5 [721 kB]
+[33m53% [54 libjetty-java 0 B/721 kB 0%]                               793 kB/s 40s[0m[33m54% [54 libjetty-java 435 kB/721 kB 60%]                           793 kB/s 39s[0m[33m54% [Working]                                                      793 kB/s 39s[0m                                                                               Get:55 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libmail-java all 1.5.5-1 [623 kB]
+[33m54% [55 libmail-java 0 B/623 kB 0%]                                793 kB/s 39s[0m[33m54% [55 libmail-java 435 kB/623 kB 70%]                            793 kB/s 38s[0m[33m55% [Working]                                                      793 kB/s 38s[0m                                                                               Get:56 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libgeronimo-jta-1.1-spec-java all 1.1.1-3ubuntu1 [12.4 kB]
+[33m55% [56 libgeronimo-jta-1.1-spec-java 0 B/12.4 kB 0%]              793 kB/s 38s[0m[33m55% [Working]                                                      793 kB/s 38s[0m                                                                               Get:57 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjetty-extra-java all 6.1.26-5 [263 kB]
+[33m55% [57 libjetty-extra-java 0 B/263 kB 0%]                         793 kB/s 38s[0m[33m56% [Working]                                                      793 kB/s 37s[0m                                                                               Get:58 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 libjs-jquery all 1.11.3+dfsg-4 [161 kB]
+[33m56% [58 libjs-jquery 0 B/161 kB 0%]                                793 kB/s 37s[0m[33m56% [Working]                                                      793 kB/s 37s[0m                                                                               Get:59 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libcommons-net2-java all 2.2-2 [194 kB]
+[33m56% [59 libcommons-net2-java 0 B/194 kB 0%]                        793 kB/s 37s[0m[33m56% [Working]                                                      793 kB/s 37s[0m                                                                               Get:60 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjsoup-java all 1.8.3-1 [298 kB]
+[33m56% [60 libjsoup-java 0 B/298 kB 0%]                               793 kB/s 37s[0m[33m57% [Working]                                                      727 kB/s 40s[0m                                                                               Get:61 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-classworlds-java all 1.5.0-5 [49.2 kB]
+[33m57% [61 libplexus-classworlds-java 0 B/49.2 kB 0%]                 727 kB/s 40s[0m[33m57% [Working]                                                      727 kB/s 40s[0m                                                                               Get:62 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 libjaxp1.3-java all 1.3.05-2ubuntu3 [450 kB]
+[33m57% [62 libjaxp1.3-java 0 B/450 kB 0%]                             727 kB/s 40s[0m[33m58% [62 libjaxp1.3-java 440 kB/450 kB 98%]                         727 kB/s 39s[0m[33m58% [Working]                                                      727 kB/s 39s[0m                                                                               Get:63 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 libxalan2-java all 2.7.1-9 [3,166 kB]
+[33m58% [63 libxalan2-java 0 B/3,166 kB 0%]                            727 kB/s 39s[0m[33m58% [63 libxalan2-java 439 kB/3,166 kB 14%]                        727 kB/s 39s[0m[33m59% [63 libxalan2-java 876 kB/3,166 kB 28%]                        727 kB/s 38s[0m[33m59% [63 libxalan2-java 1,308 kB/3,166 kB 41%]                      727 kB/s 38s[0m[33m60% [63 libxalan2-java 1,737 kB/3,166 kB 55%]                      727 kB/s 37s[0m[33m60% [63 libxalan2-java 2,160 kB/3,166 kB 68%]                      727 kB/s 36s[0m[33m61% [63 libxalan2-java 2,589 kB/3,166 kB 82%]                      727 kB/s 36s[0m[33m61% [63 libxalan2-java 2,983 kB/3,166 kB 94%]                      727 kB/s 35s[0m[33m62% [Working]                                                      727 kB/s 35s[0m                                                                               Get:64 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-interpolation-java all 1.21-1 [61.3 kB]
+[33m62% [64 libplexus-interpolation-java 0 B/61.3 kB 0%]               727 kB/s 35s[0m[33m62% [Working]                                                      727 kB/s 35s[0m                                                                               Get:65 http://us.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 libplexus-utils-java all 1:1.5.15-4+deb8u1build0.16.04.1 [208 kB]
+[33m62% [65 libplexus-utils-java 0 B/208 kB 0%]                        727 kB/s 35s[0m[33m62% [Working]                                                      727 kB/s 35s[0m                                                                               Get:66 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-containers-java all 1.0~beta3.0.7-8 [178 kB]
+[33m62% [66 libplexus-containers-java 0 B/178 kB 0%]                   727 kB/s 35s[0m[33m63% [Working]                                                      727 kB/s 34s[0m                                                                               Get:67 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-interactivity-api-java all 1.0-alpha-6-7 [14.2 kB]
+[33m63% [67 libplexus-interactivity-api-java 0 B/14.2 kB 0%]           727 kB/s 34s[0m[33m63% [Working]                                                      727 kB/s 34s[0m                                                                               Get:68 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libwagon-java all 1.0.0-7 [133 kB]
+[33m63% [68 libwagon-java 0 B/133 kB 0%]                               727 kB/s 34s[0m[33m63% [Working]                                                      710 kB/s 35s[0m                                                                               Get:69 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libeclipse-aether-java all 1.0.2-1 [564 kB]
+[33m63% [69 libeclipse-aether-java 0 B/564 kB 0%]                      710 kB/s 35s[0m[33m64% [69 libeclipse-aether-java 427 kB/564 kB 76%]                  710 kB/s 34s[0m[33m64% [Working]                                                      710 kB/s 34s[0m                                                                               Get:70 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libcommons-lang3-java all 3.4-1 [380 kB]
+[33m64% [70 libcommons-lang3-java 0 B/380 kB 0%]                       710 kB/s 34s[0m[33m64% [Working]                                                      710 kB/s 34s[0m                                                                               Get:71 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libaopalliance-java all 20070526-5 [9,214 B]
+[33m64% [71 libaopalliance-java 0 B/9,214 B 0%]                        710 kB/s 34s[0m[33m65% [Working]                                                      710 kB/s 34s[0m                                                                               Get:72 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libguice-java all 4.0-2 [836 kB]
+[33m65% [72 libguice-java 0 B/836 kB 0%]                               710 kB/s 34s[0m[33m65% [72 libguice-java 438 kB/836 kB 52%]                           710 kB/s 33s[0m[33m66% [Working]                                                      710 kB/s 32s[0m                                                                               Get:73 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-cipher-java all 1.7-1 [14.5 kB]
+[33m66% [73 libplexus-cipher-java 0 B/14.5 kB 0%]                      710 kB/s 32s[0m[33m66% [Working]                                                      710 kB/s 32s[0m                                                                               Get:74 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-classworlds2-java all 2.5.2-1 [46.7 kB]
+[33m66% [74 libplexus-classworlds2-java 0 B/46.7 kB 0%]                710 kB/s 32s[0m[33m66% [Working]                                                      710 kB/s 32s[0m                                                                               Get:75 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-utils2-java all 3.0.22-1 [235 kB]
+[33m66% [75 libplexus-utils2-java 0 B/235 kB 0%]                       710 kB/s 32s[0m[33m67% [Working]                                                      710 kB/s 32s[0m                                                                               Get:76 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-container-default1.5-java all 1.6-2 [186 kB]
+[33m67% [76 libplexus-container-default1.5-java 0 B/186 kB 0%]         710 kB/s 32s[0m[33m67% [Working]                                                      710 kB/s 32s[0m                                                                               Get:77 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-component-annotations-java all 1.6-2 [6,662 B]
+[33m67% [77 libplexus-component-annotations-java 0 B/6,662 B 0%]       710 kB/s 32s[0m[33m67% [Working]                                                      710 kB/s 32s[0m                                                                               Get:78 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjdom1-java all 1.1.3-1 [150 kB]
+[33m67% [78 libjdom1-java 0 B/150 kB 0%]                               710 kB/s 32s[0m[33m68% [Working]                                                      710 kB/s 32s[0m                                                                               Get:79 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libdoxia-core-java all 1.1.4-3ubuntu1 [148 kB]
+[33m68% [79 libdoxia-core-java 0 B/148 kB 0%]                          710 kB/s 32s[0m[33m68% [Working]                                                      710 kB/s 31s[0m                                                                               Get:80 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-container-default-java all 1.0-alpha-9-stable-1-7 [153 kB]
+[33m68% [80 libplexus-container-default-java 0 B/153 kB 0%]            710 kB/s 31s[0m[33m68% [Working]                                                      710 kB/s 31s[0m                                                                               Get:81 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-ant-factory-java all 1.0~alpha2.1-3 [11.2 kB]
+[33m68% [81 libplexus-ant-factory-java 0 B/11.2 kB 0%]                 710 kB/s 31s[0m[33m68% [Working]                                                      710 kB/s 31s[0m                                                                               Get:82 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-io-java all 1.0~alpha5-2 [44.7 kB]
+[33m68% [82 libplexus-io-java 0 B/44.7 kB 0%]                          710 kB/s 31s[0m[33m69% [Working]                                                      710 kB/s 31s[0m                                                                               Get:83 http://us.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 libplexus-archiver-java all 2.2-1+deb9u1build0.16.04.1 [171 kB]
+[33m69% [83 libplexus-archiver-java 0 B/171 kB 0%]                     710 kB/s 31s[0m[33m69% [Working]                                                      710 kB/s 31s[0m                                                                               Get:84 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libbsh-java all 2.0b4-17ubuntu1 [264 kB]
+[33m69% [84 libbsh-java 0 B/264 kB 0%]                                 710 kB/s 31s[0m[33m70% [Working]                                                      710 kB/s 30s[0m                                                                               Get:85 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-bsh-factory-java all 1.0~alpha7-3.1 [7,708 B]
+[33m70% [85 libplexus-bsh-factory-java 0 B/7,708 B 0%]                 710 kB/s 30s[0m[33m70% [Working]                                                      710 kB/s 30s[0m                                                                               Get:86 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-sec-dispatcher-java all 1.3.1-6 [27.1 kB]
+[33m70% [86 libplexus-sec-dispatcher-java 0 B/27.1 kB 0%]              710 kB/s 30s[0m[33m70% [Working]                                                      710 kB/s 30s[0m                                                                               Get:87 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libmaven2-core-java all 2.2.1-24 [710 kB]
+[33m70% [87 libmaven2-core-java 0 B/710 kB 0%]                         710 kB/s 30s[0m[33m70% [87 libmaven2-core-java 430 kB/710 kB 61%]                     710 kB/s 30s[0m[33m71% [Working]                                                      648 kB/s 32s[0m                                                                               Get:88 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-cli-java all 1.2-5 [9,700 B]
+[33m71% [88 libplexus-cli-java 0 B/9,700 B 0%]                         648 kB/s 32s[0m[33m71% [Working]                                                      648 kB/s 32s[0m                                                                               Get:89 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libqdox2-java all 2.0~M3-2 [257 kB]
+[33m71% [89 libqdox2-java 0 B/257 kB 0%]                               648 kB/s 32s[0m[33m72% [Working]                                                      648 kB/s 32s[0m                                                                               Get:90 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-component-metadata-java all 1.6-2 [103 kB]
+[33m72% [90 libplexus-component-metadata-java 0 B/103 kB 0%]           648 kB/s 32s[0m[33m72% [Working]                                                      648 kB/s 32s[0m                                                                               Get:91 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libplexus-containers1.5-java all 1.6-2 [2,410 B]
+[33m72% [91 libplexus-containers1.5-java 0 B/2,410 B 0%]               648 kB/s 32s[0m[33m72% [Working]                                                      648 kB/s 32s[0m                                                                               Get:92 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libgeronimo-interceptor-3.0-spec-java all 1.0.1-3fakesync1 [7,284 B]
+[33m72% [92 libgeronimo-interceptor-3.0-spec-java 0 B/7,284 B 0%]      648 kB/s 32s[0m[33m72% [Working]                                                      648 kB/s 32s[0m                                                                               Get:93 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libcdi-api-java all 1.0-2 [31.9 kB]
+[33m72% [93 libcdi-api-java 0 B/31.9 kB 0%]                            648 kB/s 32s[0m[33m72% [Working]                                                      648 kB/s 32s[0m                                                                               Get:94 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libsisu-inject-java all 0.3.2-1 [347 kB]
+[33m72% [94 libsisu-inject-java 0 B/347 kB 0%]                         648 kB/s 32s[0m[33m73% [Working]                                                      648 kB/s 31s[0m                                                                               Get:95 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libsisu-plexus-java all 0.3.2-1 [182 kB]
+[33m73% [95 libsisu-plexus-java 0 B/182 kB 0%]                         648 kB/s 31s[0m[33m73% [Working]                                                      648 kB/s 31s[0m                                                                               Get:96 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libcommons-net-java all 3.4-2ubuntu2 [334 kB]
+[33m73% [96 libcommons-net-java 0 B/334 kB 0%]                         648 kB/s 31s[0m[33m74% [Working]                                                      648 kB/s 30s[0m                                                                               Get:97 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 liblog4j1.2-java all 1.2.17-7ubuntu1 [426 kB]
+[33m74% [97 liblog4j1.2-java 0 B/426 kB 0%]                            648 kB/s 30s[0m[33m74% [97 liblog4j1.2-java 424 kB/426 kB 99%]                        648 kB/s 30s[0m[33m75% [Working]                                                      648 kB/s 30s[0m                                                                               Get:98 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libmaven-parent-java all 21-2 [5,786 B]
+[33m75% [98 libmaven-parent-java 0 B/5,786 B 0%]                       648 kB/s 30s[0m[33m75% [Working]                                                      648 kB/s 30s[0m                                                                               Get:99 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libwagon2-java all 2.10-3 [2,144 kB]
+[33m75% [99 libwagon2-java 0 B/2,144 kB 0%]                            648 kB/s 30s[0m[33m75% [99 libwagon2-java 383 kB/2,144 kB 18%]                        648 kB/s 29s[0m[33m76% [99 libwagon2-java 807 kB/2,144 kB 38%]                        648 kB/s 28s[0m[33m76% [99 libwagon2-java 1,237 kB/2,144 kB 58%]                      648 kB/s 28s[0m[33m77% [99 libwagon2-java 1,683 kB/2,144 kB 79%]                      648 kB/s 27s[0m[33m77% [99 libwagon2-java 2,110 kB/2,144 kB 98%]                      648 kB/s 26s[0m[33m77% [Working]                                                      648 kB/s 26s[0m                                                                               Get:100 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libmaven3-core-java all 3.3.9-3 [1,446 kB]
+[33m77% [100 libmaven3-core-java 0 B/1,446 kB 0%]                      648 kB/s 26s[0m[33m78% [100 libmaven3-core-java 433 kB/1,446 kB 30%]                  709 kB/s 23s[0m[33m78% [100 libmaven3-core-java 700 kB/1,446 kB 48%]                  709 kB/s 23s[0m[33m79% [100 libmaven3-core-java 1,050 kB/1,446 kB 73%]                709 kB/s 23s[0m[33m79% [Working]                                                      709 kB/s 22s[0m                                                                               Get:101 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libpolyglot-maven-java all 0.8~tobrien+git20120905-5 [72.9 kB]
+[33m79% [101 libpolyglot-maven-java 0 B/72.9 kB 0%]                    709 kB/s 22s[0m[33m79% [Working]                                                      709 kB/s 22s[0m                                                                               Get:102 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 librhino-java all 1.7R4-3 [1,093 kB]
+[33m79% [102 librhino-java 0 B/1,093 kB 0%]                            709 kB/s 22s[0m[33m80% [102 librhino-java 438 kB/1,093 kB 40%]                        709 kB/s 21s[0m[33m80% [102 librhino-java 879 kB/1,093 kB 80%]                        709 kB/s 21s[0m[33m81% [Working]                                                      709 kB/s 20s[0m                                                                               Get:103 http://us.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libtomcat8-java all 8.0.32-1ubuntu1.8 [4,658 kB]
+[33m81% [103 libtomcat8-java 0 B/4,658 kB 0%]                          709 kB/s 20s[0m[33m81% [103 libtomcat8-java 437 kB/4,658 kB 9%]                       709 kB/s 20s[0m[33m82% [103 libtomcat8-java 853 kB/4,658 kB 18%]                      709 kB/s 19s[0m[33m82% [103 libtomcat8-java 1,275 kB/4,658 kB 27%]                    709 kB/s 19s[0m[33m83% [103 libtomcat8-java 1,488 kB/4,658 kB 32%]                    709 kB/s 18s[0m[33m83% [103 libtomcat8-java 1,825 kB/4,658 kB 39%]                    709 kB/s 18s[0m[33m83% [103 libtomcat8-java 2,133 kB/4,658 kB 46%]                    709 kB/s 17s[0m[33m84% [103 libtomcat8-java 2,478 kB/4,658 kB 53%]                    709 kB/s 17s[0m[33m84% [103 libtomcat8-java 2,907 kB/4,658 kB 62%]                    709 kB/s 16s[0m[33m85% [103 libtomcat8-java 3,315 kB/4,658 kB 71%]                    709 kB/s 16s[0m[33m85% [103 libtomcat8-java 3,720 kB/4,658 kB 80%]                    709 kB/s 15s[0m[33m86% [103 libtomcat8-java 4,118 kB/4,658 kB 88%]                    709 kB/s 15s[0m[33m86% [103 libtomcat8-java 4,503 kB/4,658 kB 97%]                    709 kB/s 14s[0m[33m86% [Working]                                                      709 kB/s 14s[0m                                                                               Get:104 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjcommander-java all 1.48-1 [58.2 kB]
+[33m86% [104 libjcommander-java 0 B/58.2 kB 0%]                        709 kB/s 14s[0m[33m87% [Working]                                                      709 kB/s 14s[0m                                                                               Get:105 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 testng all 6.9.5-1 [805 kB]
+[33m87% [105 testng 0 B/805 kB 0%]                                     709 kB/s 14s[0m[33m87% [105 testng 430 kB/805 kB 53%]                                 709 kB/s 13s[0m[33m88% [Working]                                                      709 kB/s 13s[0m                                                                               Get:106 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libgradle-plugins-java all 2.10-1 [4,957 kB]
+[33m88% [106 libgradle-plugins-java 0 B/4,957 kB 0%]                   709 kB/s 13s[0m[33m88% [106 libgradle-plugins-java 434 kB/4,957 kB 9%]                709 kB/s 12s[0m[33m89% [106 libgradle-plugins-java 863 kB/4,957 kB 17%]               709 kB/s 11s[0m[33m89% [106 libgradle-plugins-java 1,275 kB/4,957 kB 26%]             770 kB/s 10s[0m[33m90% [106 libgradle-plugins-java 1,691 kB/4,957 kB 34%]              770 kB/s 9s[0m[33m90% [106 libgradle-plugins-java 2,090 kB/4,957 kB 42%]              770 kB/s 9s[0m[33m91% [106 libgradle-plugins-java 2,472 kB/4,957 kB 50%]              770 kB/s 8s[0m[33m91% [106 libgradle-plugins-java 2,853 kB/4,957 kB 58%]              770 kB/s 8s[0m[33m91% [106 libgradle-plugins-java 3,213 kB/4,957 kB 65%]              770 kB/s 7s[0m[33m92% [106 libgradle-plugins-java 3,638 kB/4,957 kB 73%]              770 kB/s 7s[0m[33m92% [106 libgradle-plugins-java 4,064 kB/4,957 kB 82%]              770 kB/s 6s[0m[33m93% [106 libgradle-plugins-java 4,500 kB/4,957 kB 91%]              770 kB/s 6s[0m[33m93% [106 libgradle-plugins-java 4,923 kB/4,957 kB 99%]              770 kB/s 5s[0m[33m94% [Working]                                                       770 kB/s 5s[0m                                                                               Get:107 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 gradle all 2.10-1 [632 kB]
+[33m94% [107 gradle 0 B/632 kB 0%]                                      770 kB/s 5s[0m[33m94% [107 gradle 383 kB/632 kB 61%]                                  770 kB/s 5s[0m[33m94% [Working]                                                       770 kB/s 4s[0m                                                                               Get:108 http://us.archive.ubuntu.com/ubuntu xenial/main amd64 javascript-common all 11 [6,066 B]
+[33m94% [108 javascript-common 0 B/6,066 B 0%]                          770 kB/s 4s[0m[33m95% [Working]                                                       770 kB/s 4s[0m                                                                               Get:109 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libbindex-java all 2.2+svn101-3 [65.7 kB]
+[33m95% [109 libbindex-java 0 B/65.7 kB 0%]                             770 kB/s 4s[0m[33m95% [Working]                                                       770 kB/s 4s[0m                                                                               Get:110 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libnetty-3.9-java all 3.9.0.Final-1 [1,066 kB]
+[33m95% [110 libnetty-3.9-java 0 B/1,066 kB 0%]                         770 kB/s 4s[0m[33m95% [110 libnetty-3.9-java 430 kB/1,066 kB 40%]                     752 kB/s 4s[0m[33m96% [110 libnetty-3.9-java 853 kB/1,066 kB 80%]                     752 kB/s 3s[0m[33m96% [Working]                                                       752 kB/s 3s[0m                                                                               Get:111 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjsr166y-java all 1.7.0-2 [599 kB]
+[33m96% [111 libjsr166y-java 0 B/599 kB 0%]                             752 kB/s 3s[0m[33m97% [111 libjsr166y-java 421 kB/599 kB 70%]                         752 kB/s 2s[0m[33m97% [Working]                                                       752 kB/s 2s[0m                                                                               Get:112 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjcsp-java all 1.1-rc4-2 [607 kB]
+[33m97% [112 libjcsp-java 0 B/607 kB 0%]                                752 kB/s 2s[0m[33m98% [112 libjcsp-java 416 kB/607 kB 68%]                            752 kB/s 1s[0m[33m98% [Working]                                                       752 kB/s 1s[0m                                                                               Get:113 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libgpars-groovy-java all 1.2.1-5 [1,130 kB]
+[33m98% [113 libgpars-groovy-java 0 B/1,130 kB 0%]                      752 kB/s 1s[0m[33m98% [113 libgpars-groovy-java 430 kB/1,130 kB 38%]                  752 kB/s 1s[0m[33m99% [113 libgpars-groovy-java 850 kB/1,130 kB 75%]                  752 kB/s 0s[0m[33m99% [Working]                                                       752 kB/s 0s[0m                                                                               Get:114 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libjetty-extra amd64 6.1.26-5 [8,368 B]
+[33m99% [114 libjetty-extra 0 B/8,368 B 0%]                             752 kB/s 0s[0m[33m100% [Working]                                                      752 kB/s 0s[0m                                                                               Get:115 http://us.archive.ubuntu.com/ubuntu xenial/universe amd64 libxom-java all 1.2.10-1 [170 kB]
+[33m100% [115 libxom-java 0 B/170 kB 0%]                                752 kB/s 0s[0m[33m100% [Working]                                                      752 kB/s 0s[0m                                                                               Fetched 70.1 MB in 1min 36s (729 kB/s)
+Extracting templates from packages: 26%Extracting templates from packages: 52%Extracting templates from packages: 78%Extracting templates from packages: 100%
+
+7[0;23r8[1ASelecting previously unselected package libyaml-snake-java.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 263800 files and directories currently installed.)
+Preparing to unpack .../libyaml-snake-java_1.12-2_all.deb ...
+7[24;0f[42m[30mProgress: [  0%][49m[39m [..........................................................] 8Unpacking libyaml-snake-java (1.12-2) ...
+Selecting previously unselected package libantlr-java.
+Preparing to unpack .../libantlr-java_2.7.7+dfsg-6ubuntu1_all.deb ...
+Unpacking libantlr-java (2.7.7+dfsg-6ubuntu1) ...
+7[24;0f[42m[30mProgress: [  1%][49m[39m [#.........................................................] 8Selecting previously unselected package antlr.
+Preparing to unpack .../antlr_2.7.7+dfsg-6ubuntu1_all.deb ...
+Unpacking antlr (2.7.7+dfsg-6ubuntu1) ...
+Selecting previously unselected package java-wrappers.
+Preparing to unpack .../java-wrappers_0.1.28_all.deb ...
+Unpacking java-wrappers (0.1.28) ...
+7[24;0f[42m[30mProgress: [  2%][49m[39m [##........................................................] 8Selecting previously unselected package bnd.
+Preparing to unpack .../archives/bnd_2.4.1-3_all.deb ...
+Unpacking bnd (2.4.1-3) ...
+Selecting previously unselected package ivy.
+Preparing to unpack .../archives/ivy_2.4.0-3_all.deb ...
+Unpacking ivy (2.4.0-3) ...
+7[24;0f[42m[30mProgress: [  3%][49m[39m [##........................................................] 8Selecting previously unselected package libbsf-java.
+Preparing to unpack .../libbsf-java_1%3a2.4.0-5build1_all.deb ...
+Unpacking libbsf-java (1:2.4.0-5build1) ...
+Selecting previously unselected package libhawtjni-runtime-java.
+Preparing to unpack .../libhawtjni-runtime-java_1.10-1_all.deb ...
+Unpacking libhawtjni-runtime-java (1.10-1) ...
+7[24;0f[42m[30mProgress: [  4%][49m[39m [###.......................................................] 8Selecting previously unselected package libjansi-native-java.
+Preparing to unpack .../libjansi-native-java_1.0-4_all.deb ...
+Unpacking libjansi-native-java (1.0-4) ...
+Selecting previously unselected package libjansi-java.
+Preparing to unpack .../libjansi-java_1.4-3_all.deb ...
+Unpacking libjansi-java (1.4-3) ...
+7[24;0f[42m[30mProgress: [  5%][49m[39m [###.......................................................] 8Selecting previously unselected package libjline2-java.
+Preparing to unpack .../libjline2-java_2.11-4_all.deb ...
+Unpacking libjline2-java (2.11-4) ...
+Selecting previously unselected package libqdox-java.
+Preparing to unpack .../libqdox-java_1.12.1-1_all.deb ...
+Unpacking libqdox-java (1.12.1-1) ...
+7[24;0f[42m[30mProgress: [  6%][49m[39m [####......................................................] 8Selecting previously unselected package libservlet2.5-java.
+Preparing to unpack .../libservlet2.5-java_6.0.45+dfsg-1_all.deb ...
+Unpacking libservlet2.5-java (6.0.45+dfsg-1) ...
+Selecting previously unselected package libxpp3-java.
+Preparing to unpack .../libxpp3-java_1.1.4c-2build1_all.deb ...
+Unpacking libxpp3-java (1.1.4c-2build1) ...
+7[24;0f[42m[30mProgress: [  7%][49m[39m [#####.....................................................] 8Selecting previously unselected package libxstream-java.
+Preparing to unpack .../libxstream-java_1.4.8-1ubuntu0.1_all.deb ...
+Unpacking libxstream-java (1.4.8-1ubuntu0.1) ...
+Selecting previously unselected package groovy2.
+Preparing to unpack .../groovy2_2.4.5-1_all.deb ...
+Unpacking groovy2 (2.4.5-1) ...
+7[24;0f[42m[30mProgress: [  8%][49m[39m [#####.....................................................] 8Selecting previously unselected package libatinject-jsr330-api-java.
+Preparing to unpack .../libatinject-jsr330-api-java_1.0+ds1-2_all.deb ...
+Unpacking libatinject-jsr330-api-java (1.0+ds1-2) ...
+Selecting previously unselected package libcommons-io-java.
+Preparing to unpack .../libcommons-io-java_2.4-2_all.deb ...
+7[24;0f[42m[30mProgress: [  9%][49m[39m [######....................................................] 8Unpacking libcommons-io-java (2.4-2) ...
+Selecting previously unselected package libcommons-lang-java.
+Preparing to unpack .../libcommons-lang-java_2.6-6ubuntu2_all.deb ...
+Unpacking libcommons-lang-java (2.6-6ubuntu2) ...
+Selecting previously unselected package libjsr305-java.
+Preparing to unpack .../libjsr305-java_0.1~+svn49-9_all.deb ...
+7[24;0f[42m[30mProgress: [ 10%][49m[39m [######....................................................] 8Unpacking libjsr305-java (0.1~+svn49-9) ...
+Selecting previously unselected package libguava-java.
+Preparing to unpack .../libguava-java_19.0-1_all.deb ...
+Unpacking libguava-java (19.0-1) ...
+Selecting previously unselected package libhttpcore-java.
+Preparing to unpack .../libhttpcore-java_4.4.4-1_all.deb ...
+7[24;0f[42m[30mProgress: [ 11%][49m[39m [#######...................................................] 8Unpacking libhttpcore-java (4.4.4-1) ...
+Selecting previously unselected package libhttpclient-java.
+Preparing to unpack .../libhttpclient-java_4.5.1-1_all.deb ...
+Unpacking libhttpclient-java (4.5.1-1) ...
+Selecting previously unselected package libjarjar-java.
+Preparing to unpack .../libjarjar-java_1.4+svn142-4ubuntu1_all.deb ...
+7[24;0f[42m[30mProgress: [ 12%][49m[39m [########..................................................] 8Unpacking libjarjar-java (1.4+svn142-4ubuntu1) ...
+Selecting previously unselected package libjcifs-java.
+Preparing to unpack .../libjcifs-java_1.3.18-2_all.deb ...
+Unpacking libjcifs-java (1.3.18-2) ...
+7[24;0f[42m[30mProgress: [ 13%][49m[39m [########..................................................] 8Selecting previously unselected package libjcip-annotations-java.
+Preparing to unpack .../libjcip-annotations-java_20060626-5_all.deb ...
+Unpacking libjcip-annotations-java (20060626-5) ...
+Selecting previously unselected package libjna-jni.
+Preparing to unpack .../libjna-jni_4.2.2-1_amd64.deb ...
+Unpacking libjna-jni (4.2.2-1) ...
+7[24;0f[42m[30mProgress: [ 14%][49m[39m [#########.................................................] 8Selecting previously unselected package libjna-java.
+Preparing to unpack .../libjna-java_4.2.2-1_all.deb ...
+Unpacking libjna-java (4.2.2-1) ...
+Selecting previously unselected package libminlog-java.
+Preparing to unpack .../libminlog-java_1.2-3_all.deb ...
+Unpacking libminlog-java (1.2-3) ...
+7[24;0f[42m[30mProgress: [ 15%][49m[39m [#########.................................................] 8Selecting previously unselected package libreflectasm-java.
+Preparing to unpack .../libreflectasm-java_1.05-3_all.deb ...
+Unpacking libreflectasm-java (1.05-3) ...
+Selecting previously unselected package libkryo-java.
+Preparing to unpack .../libkryo-java_2.20-5_all.deb ...
+Unpacking libkryo-java (2.20-5) ...
+7[24;0f[42m[30mProgress: [ 16%][49m[39m [##########................................................] 8Selecting previously unselected package libslf4j-java.
+Preparing to unpack .../libslf4j-java_1.7.14-3_all.deb ...
+Unpacking libslf4j-java (1.7.14-3) ...
+Selecting previously unselected package liblogback-java.
+Preparing to unpack .../liblogback-java_1%3a1.1.3-2_all.deb ...
+Unpacking liblogback-java (1:1.1.3-2) ...
+7[24;0f[42m[30mProgress: [ 17%][49m[39m [##########................................................] 8Selecting previously unselected package libnative-platform-jni.
+Preparing to unpack .../libnative-platform-jni_0.10+dfsg-1build1_amd64.deb ...
+Unpacking libnative-platform-jni (0.10+dfsg-1build1) ...
+Selecting previously unselected package libnative-platform-java.
+Preparing to unpack .../libnative-platform-java_0.10+dfsg-1build1_all.deb ...
+Unpacking libnative-platform-java (0.10+dfsg-1build1) ...
+7[24;0f[42m[30mProgress: [ 18%][49m[39m [###########...............................................] 8Selecting previously unselected package libxml-commons-resolver1.1-java.
+Preparing to unpack .../libxml-commons-resolver1.1-java_1.2-7build1_all.deb ...
+Unpacking libxml-commons-resolver1.1-java (1.2-7build1) ...
+Selecting previously unselected package libxml-commons-external-java.
+Preparing to unpack .../libxml-commons-external-java_1.4.01-2build1_all.deb ...
+Unpacking libxml-commons-external-java (1.4.01-2build1) ...
+7[24;0f[42m[30mProgress: [ 19%][49m[39m [############..............................................] 8Selecting previously unselected package libxerces2-java.
+Preparing to unpack .../libxerces2-java_2.11.0-7_all.deb ...
+Unpacking libxerces2-java (2.11.0-7) ...
+Selecting previously unselected package libnekohtml-java.
+Preparing to unpack .../libnekohtml-java_1.9.22-1_all.deb ...
+Unpacking libnekohtml-java (1.9.22-1) ...
+7[24;0f[42m[30mProgress: [ 20%][49m[39m [############..............................................] 8Selecting previously unselected package libxbean-java.
+Preparing to unpack .../libxbean-java_4.5-1_all.deb ...
+Unpacking libxbean-java (4.5-1) ...
+Selecting previously unselected package libgradle-core-java.
+Preparing to unpack .../libgradle-core-java_2.10-1_all.deb ...
+7[24;0f[42m[30mProgress: [ 21%][49m[39m [#############.............................................] 8Unpacking libgradle-core-java (2.10-1) ...
+Selecting previously unselected package libbcel-java.
+Preparing to unpack .../libbcel-java_6.0~rc3-2ubuntu1_all.deb ...
+Unpacking libbcel-java (6.0~rc3-2ubuntu1) ...
+Selecting previously unselected package libjaxen-java.
+Preparing to unpack .../libjaxen-java_1.1.6-1ubuntu1_all.deb ...
+7[24;0f[42m[30mProgress: [ 22%][49m[39m [#############.............................................] 8Unpacking libjaxen-java (1.1.6-1ubuntu1) ...
+Selecting previously unselected package libxpp2-java.
+Preparing to unpack .../libxpp2-java_2.1.10-7build1_all.deb ...
+Unpacking libxpp2-java (2.1.10-7build1) ...
+Selecting previously unselected package libdom4j-java.
+Preparing to unpack .../libdom4j-java_1.6.1+dfsg.3-2ubuntu1_all.deb ...
+7[24;0f[42m[30mProgress: [ 23%][49m[39m [##############............................................] 8Unpacking libdom4j-java (1.6.1+dfsg.3-2ubuntu1) ...
+Selecting previously unselected package libjdepend-java.
+Preparing to unpack .../libjdepend-java_2.9.1-1_all.deb ...
+Unpacking libjdepend-java (2.9.1-1) ...
+Selecting previously unselected package libjformatstring-java.
+Preparing to unpack .../libjformatstring-java_0.10~20131207-1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 24%][49m[39m [##############............................................] 8Unpacking libjformatstring-java (0.10~20131207-1) ...
+Selecting previously unselected package findbugs.
+Preparing to unpack .../findbugs_3.0.1-2_all.deb ...
+Unpacking findbugs (3.0.1-2) ...
+7[24;0f[42m[30mProgress: [ 25%][49m[39m [###############...........................................] 8Selecting previously unselected package libbcprov-java.
+Preparing to unpack .../libbcprov-java_1.51-4ubuntu1_all.deb ...
+Unpacking libbcprov-java (1.51-4ubuntu1) ...
+Selecting previously unselected package libbcpg-java.
+Preparing to unpack .../libbcpg-java_1.51-4ubuntu1_all.deb ...
+Unpacking libbcpg-java (1.51-4ubuntu1) ...
+7[24;0f[42m[30mProgress: [ 26%][49m[39m [################..........................................] 8Selecting previously unselected package libclassworlds-java.
+Preparing to unpack .../libclassworlds-java_1.1-final-5_all.deb ...
+Unpacking libclassworlds-java (1.1-final-5) ...
+Selecting previously unselected package libgoogle-gson-java.
+Preparing to unpack .../libgoogle-gson-java_2.4-1_all.deb ...
+Unpacking libgoogle-gson-java (2.4-1) ...
+7[24;0f[42m[30mProgress: [ 27%][49m[39m [################..........................................] 8Selecting previously unselected package libjatl-java.
+Preparing to unpack .../libjatl-java_0.2.2-2_all.deb ...
+Unpacking libjatl-java (0.2.2-2) ...
+Selecting previously unselected package libjetty-java.
+Preparing to unpack .../libjetty-java_6.1.26-5_all.deb ...
+Unpacking libjetty-java (6.1.26-5) ...
+7[24;0f[42m[30mProgress: [ 28%][49m[39m [#################.........................................] 8Selecting previously unselected package libmail-java.
+Preparing to unpack .../libmail-java_1.5.5-1_all.deb ...
+Unpacking libmail-java (1.5.5-1) ...
+Selecting previously unselected package libgeronimo-jta-1.1-spec-java.
+Preparing to unpack .../libgeronimo-jta-1.1-spec-java_1.1.1-3ubuntu1_all.deb ...
+Unpacking libgeronimo-jta-1.1-spec-java (1.1.1-3ubuntu1) ...
+7[24;0f[42m[30mProgress: [ 29%][49m[39m [#################.........................................] 8Selecting previously unselected package libjetty-extra-java.
+Preparing to unpack .../libjetty-extra-java_6.1.26-5_all.deb ...
+Unpacking libjetty-extra-java (6.1.26-5) ...
+Selecting previously unselected package libjs-jquery.
+Preparing to unpack .../libjs-jquery_1.11.3+dfsg-4_all.deb ...
+Unpacking libjs-jquery (1.11.3+dfsg-4) ...
+7[24;0f[42m[30mProgress: [ 30%][49m[39m [##################........................................] 8Selecting previously unselected package libcommons-net2-java.
+Preparing to unpack .../libcommons-net2-java_2.2-2_all.deb ...
+Unpacking libcommons-net2-java (2.2-2) ...
+Selecting previously unselected package libjsoup-java.
+Preparing to unpack .../libjsoup-java_1.8.3-1_all.deb ...
+Unpacking libjsoup-java (1.8.3-1) ...
+7[24;0f[42m[30mProgress: [ 31%][49m[39m [###################.......................................] 8Selecting previously unselected package libplexus-classworlds-java.
+Preparing to unpack .../libplexus-classworlds-java_1.5.0-5_all.deb ...
+Unpacking libplexus-classworlds-java (1.5.0-5) ...
+Selecting previously unselected package libjaxp1.3-java.
+Preparing to unpack .../libjaxp1.3-java_1.3.05-2ubuntu3_all.deb ...
+Unpacking libjaxp1.3-java (1.3.05-2ubuntu3) ...
+7[24;0f[42m[30mProgress: [ 32%][49m[39m [###################.......................................] 8Selecting previously unselected package libxalan2-java.
+Preparing to unpack .../libxalan2-java_2.7.1-9_all.deb ...
+Unpacking libxalan2-java (2.7.1-9) ...
+Selecting previously unselected package libplexus-interpolation-java.
+Preparing to unpack .../libplexus-interpolation-java_1.21-1_all.deb ...
+Unpacking libplexus-interpolation-java (1.21-1) ...
+7[24;0f[42m[30mProgress: [ 33%][49m[39m [####################......................................] 8Selecting previously unselected package libplexus-utils-java.
+Preparing to unpack .../libplexus-utils-java_1%3a1.5.15-4+deb8u1build0.16.04.1_all.deb ...
+Unpacking libplexus-utils-java (1:1.5.15-4+deb8u1build0.16.04.1) ...
+Selecting previously unselected package libplexus-containers-java.
+Preparing to unpack .../libplexus-containers-java_1.0~beta3.0.7-8_all.deb ...
+7[24;0f[42m[30mProgress: [ 34%][49m[39m [####################......................................] 8Unpacking libplexus-containers-java (1.0~beta3.0.7-8) ...
+Selecting previously unselected package libplexus-interactivity-api-java.
+Preparing to unpack .../libplexus-interactivity-api-java_1.0-alpha-6-7_all.deb ...
+Unpacking libplexus-interactivity-api-java (1.0-alpha-6-7) ...
+Selecting previously unselected package libwagon-java.
+Preparing to unpack .../libwagon-java_1.0.0-7_all.deb ...
+7[24;0f[42m[30mProgress: [ 35%][49m[39m [#####################.....................................] 8Unpacking libwagon-java (1.0.0-7) ...
+Selecting previously unselected package libeclipse-aether-java.
+Preparing to unpack .../libeclipse-aether-java_1.0.2-1_all.deb ...
+Unpacking libeclipse-aether-java (1.0.2-1) ...
+Selecting previously unselected package libcommons-lang3-java.
+Preparing to unpack .../libcommons-lang3-java_3.4-1_all.deb ...
+7[24;0f[42m[30mProgress: [ 36%][49m[39m [#####################.....................................] 8Unpacking libcommons-lang3-java (3.4-1) ...
+Selecting previously unselected package libaopalliance-java.
+Preparing to unpack .../libaopalliance-java_20070526-5_all.deb ...
+Unpacking libaopalliance-java (20070526-5) ...
+Selecting previously unselected package libguice-java.
+Preparing to unpack .../libguice-java_4.0-2_all.deb ...
+7[24;0f[42m[30mProgress: [ 37%][49m[39m [######################....................................] 8Unpacking libguice-java (4.0-2) ...
+Selecting previously unselected package libplexus-cipher-java.
+Preparing to unpack .../libplexus-cipher-java_1.7-1_all.deb ...
+Unpacking libplexus-cipher-java (1.7-1) ...
+7[24;0f[42m[30mProgress: [ 38%][49m[39m [#######################...................................] 8Selecting previously unselected package libplexus-classworlds2-java.
+Preparing to unpack .../libplexus-classworlds2-java_2.5.2-1_all.deb ...
+Unpacking libplexus-classworlds2-java (2.5.2-1) ...
+Selecting previously unselected package libplexus-utils2-java.
+Preparing to unpack .../libplexus-utils2-java_3.0.22-1_all.deb ...
+Unpacking libplexus-utils2-java (3.0.22-1) ...
+7[24;0f[42m[30mProgress: [ 39%][49m[39m [#######################...................................] 8Selecting previously unselected package libplexus-container-default1.5-java.
+Preparing to unpack .../libplexus-container-default1.5-java_1.6-2_all.deb ...
+Unpacking libplexus-container-default1.5-java (1.6-2) ...
+Selecting previously unselected package libplexus-component-annotations-java.
+Preparing to unpack .../libplexus-component-annotations-java_1.6-2_all.deb ...
+Unpacking libplexus-component-annotations-java (1.6-2) ...
+7[24;0f[42m[30mProgress: [ 40%][49m[39m [########################..................................] 8Selecting previously unselected package libjdom1-java.
+Preparing to unpack .../libjdom1-java_1.1.3-1_all.deb ...
+Unpacking libjdom1-java (1.1.3-1) ...
+Selecting previously unselected package libdoxia-core-java.
+Preparing to unpack .../libdoxia-core-java_1.1.4-3ubuntu1_all.deb ...
+Unpacking libdoxia-core-java (1.1.4-3ubuntu1) ...
+7[24;0f[42m[30mProgress: [ 41%][49m[39m [########################..................................] 8Selecting previously unselected package libplexus-container-default-java.
+Preparing to unpack .../libplexus-container-default-java_1.0-alpha-9-stable-1-7_all.deb ...
+Unpacking libplexus-container-default-java (1.0-alpha-9-stable-1-7) ...
+Selecting previously unselected package libplexus-ant-factory-java.
+Preparing to unpack .../libplexus-ant-factory-java_1.0~alpha2.1-3_all.deb ...
+Unpacking libplexus-ant-factory-java (1.0~alpha2.1-3) ...
+7[24;0f[42m[30mProgress: [ 42%][49m[39m [#########################.................................] 8Selecting previously unselected package libplexus-io-java.
+Preparing to unpack .../libplexus-io-java_1.0~alpha5-2_all.deb ...
+Unpacking libplexus-io-java (1.0~alpha5-2) ...
+Selecting previously unselected package libplexus-archiver-java.
+Preparing to unpack .../libplexus-archiver-java_2.2-1+deb9u1build0.16.04.1_all.deb ...
+Unpacking libplexus-archiver-java (2.2-1+deb9u1build0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 43%][49m[39m [#########################.................................] 8Selecting previously unselected package libbsh-java.
+Preparing to unpack .../libbsh-java_2.0b4-17ubuntu1_all.deb ...
+Unpacking libbsh-java (2.0b4-17ubuntu1) ...
+Selecting previously unselected package libplexus-bsh-factory-java.
+Preparing to unpack .../libplexus-bsh-factory-java_1.0~alpha7-3.1_all.deb ...
+Unpacking libplexus-bsh-factory-java (1.0~alpha7-3.1) ...
+7[24;0f[42m[30mProgress: [ 44%][49m[39m [##########################................................] 8Selecting previously unselected package libplexus-sec-dispatcher-java.
+Preparing to unpack .../libplexus-sec-dispatcher-java_1.3.1-6_all.deb ...
+Unpacking libplexus-sec-dispatcher-java (1.3.1-6) ...
+Selecting previously unselected package libmaven2-core-java.
+Preparing to unpack .../libmaven2-core-java_2.2.1-24_all.deb ...
+Unpacking libmaven2-core-java (2.2.1-24) ...
+7[24;0f[42m[30mProgress: [ 45%][49m[39m [###########################...............................] 8Selecting previously unselected package libplexus-cli-java.
+Preparing to unpack .../libplexus-cli-java_1.2-5_all.deb ...
+Unpacking libplexus-cli-java (1.2-5) ...
+Selecting previously unselected package libqdox2-java.
+Preparing to unpack .../libqdox2-java_2.0~M3-2_all.deb ...
+7[24;0f[42m[30mProgress: [ 46%][49m[39m [###########################...............................] 8Unpacking libqdox2-java (2.0~M3-2) ...
+Selecting previously unselected package libplexus-component-metadata-java.
+Preparing to unpack .../libplexus-component-metadata-java_1.6-2_all.deb ...
+Unpacking libplexus-component-metadata-java (1.6-2) ...
+Selecting previously unselected package libplexus-containers1.5-java.
+Preparing to unpack .../libplexus-containers1.5-java_1.6-2_all.deb ...
+7[24;0f[42m[30mProgress: [ 47%][49m[39m [############################..............................] 8Unpacking libplexus-containers1.5-java (1.6-2) ...
+Selecting previously unselected package libgeronimo-interceptor-3.0-spec-java.
+Preparing to unpack .../libgeronimo-interceptor-3.0-spec-java_1.0.1-3fakesync1_all.deb ...
+Unpacking libgeronimo-interceptor-3.0-spec-java (1.0.1-3fakesync1) ...
+Selecting previously unselected package libcdi-api-java.
+Preparing to unpack .../libcdi-api-java_1.0-2_all.deb ...
+7[24;0f[42m[30mProgress: [ 48%][49m[39m [############################..............................] 8Unpacking libcdi-api-java (1.0-2) ...
+Selecting previously unselected package libsisu-inject-java.
+Preparing to unpack .../libsisu-inject-java_0.3.2-1_all.deb ...
+Unpacking libsisu-inject-java (0.3.2-1) ...
+Selecting previously unselected package libsisu-plexus-java.
+Preparing to unpack .../libsisu-plexus-java_0.3.2-1_all.deb ...
+7[24;0f[42m[30mProgress: [ 49%][49m[39m [#############################.............................] 8Unpacking libsisu-plexus-java (0.3.2-1) ...
+Selecting previously unselected package libcommons-net-java.
+Preparing to unpack .../libcommons-net-java_3.4-2ubuntu2_all.deb ...
+Unpacking libcommons-net-java (3.4-2ubuntu2) ...
+7[24;0f[42m[30mProgress: [ 50%][49m[39m [#############################.............................] 8Selecting previously unselected package liblog4j1.2-java.
+Preparing to unpack .../liblog4j1.2-java_1.2.17-7ubuntu1_all.deb ...
+Unpacking liblog4j1.2-java (1.2.17-7ubuntu1) ...
+Selecting previously unselected package libmaven-parent-java.
+Preparing to unpack .../libmaven-parent-java_21-2_all.deb ...
+Unpacking libmaven-parent-java (21-2) ...
+7[24;0f[42m[30mProgress: [ 51%][49m[39m [##############################............................] 8Selecting previously unselected package libwagon2-java.
+Preparing to unpack .../libwagon2-java_2.10-3_all.deb ...
+Unpacking libwagon2-java (2.10-3) ...
+Selecting previously unselected package libmaven3-core-java.
+Preparing to unpack .../libmaven3-core-java_3.3.9-3_all.deb ...
+Unpacking libmaven3-core-java (3.3.9-3) ...
+7[24;0f[42m[30mProgress: [ 52%][49m[39m [###############################...........................] 8Selecting previously unselected package libpolyglot-maven-java.
+Preparing to unpack .../libpolyglot-maven-java_0.8~tobrien+git20120905-5_all.deb ...
+Unpacking libpolyglot-maven-java (0.8~tobrien+git20120905-5) ...
+Selecting previously unselected package librhino-java.
+Preparing to unpack .../librhino-java_1.7R4-3_all.deb ...
+Unpacking librhino-java (1.7R4-3) ...
+7[24;0f[42m[30mProgress: [ 53%][49m[39m [###############################...........................] 8Selecting previously unselected package libtomcat8-java.
+Preparing to unpack .../libtomcat8-java_8.0.32-1ubuntu1.8_all.deb ...
+Unpacking libtomcat8-java (8.0.32-1ubuntu1.8) ...
+Selecting previously unselected package libjcommander-java.
+Preparing to unpack .../libjcommander-java_1.48-1_all.deb ...
+Unpacking libjcommander-java (1.48-1) ...
+7[24;0f[42m[30mProgress: [ 54%][49m[39m [################################..........................] 8Selecting previously unselected package testng.
+Preparing to unpack .../testng_6.9.5-1_all.deb ...
+Unpacking testng (6.9.5-1) ...
+Selecting previously unselected package libgradle-plugins-java.
+Preparing to unpack .../libgradle-plugins-java_2.10-1_all.deb ...
+Unpacking libgradle-plugins-java (2.10-1) ...
+7[24;0f[42m[30mProgress: [ 55%][49m[39m [################################..........................] 8Selecting previously unselected package gradle.
+Preparing to unpack .../archives/gradle_2.10-1_all.deb ...
+Unpacking gradle (2.10-1) ...
+Selecting previously unselected package javascript-common.
+Preparing to unpack .../javascript-common_11_all.deb ...
+Unpacking javascript-common (11) ...
+7[24;0f[42m[30mProgress: [ 56%][49m[39m [#################################.........................] 8Selecting previously unselected package libbindex-java.
+Preparing to unpack .../libbindex-java_2.2+svn101-3_all.deb ...
+Unpacking libbindex-java (2.2+svn101-3) ...
+Selecting previously unselected package libnetty-3.9-java.
+Preparing to unpack .../libnetty-3.9-java_3.9.0.Final-1_all.deb ...
+Unpacking libnetty-3.9-java (3.9.0.Final-1) ...
+7[24;0f[42m[30mProgress: [ 57%][49m[39m [##################################........................] 8Selecting previously unselected package libjsr166y-java.
+Preparing to unpack .../libjsr166y-java_1.7.0-2_all.deb ...
+Unpacking libjsr166y-java (1.7.0-2) ...
+Selecting previously unselected package libjcsp-java.
+Preparing to unpack .../libjcsp-java_1.1-rc4-2_all.deb ...
+Unpacking libjcsp-java (1.1-rc4-2) ...
+7[24;0f[42m[30mProgress: [ 58%][49m[39m [##################################........................] 8Selecting previously unselected package libgpars-groovy-java.
+Preparing to unpack .../libgpars-groovy-java_1.2.1-5_all.deb ...
+Unpacking libgpars-groovy-java (1.2.1-5) ...
+Selecting previously unselected package libjetty-extra.
+Preparing to unpack .../libjetty-extra_6.1.26-5_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 59%][49m[39m [###################################.......................] 8Unpacking libjetty-extra (6.1.26-5) ...
+Selecting previously unselected package libxom-java.
+Preparing to unpack .../libxom-java_1.2.10-1_all.deb ...
+Unpacking libxom-java (1.2.10-1) ...
+Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for doc-base (0.10.7) ...
+Processing 6 added doc-base files...
+Processing triggers for hicolor-icon-theme (0.15-0ubuntu1) ...
+Processing triggers for gnome-menus (3.13.3-6ubuntu3.1) ...
+Processing triggers for desktop-file-utils (0.22-1ubuntu5.1) ...
+Processing triggers for bamfdaemon (0.5.3~bzr0+16.04.20160824-0ubuntu1) ...
+Rebuilding /usr/share/applications/bamf-2.index...
+Processing triggers for mime-support (3.59ubuntu1) ...
+Setting up libyaml-snake-java (1.12-2) ...
+7[24;0f[42m[30mProgress: [ 60%][49m[39m [###################################.......................] 8Setting up libantlr-java (2.7.7+dfsg-6ubuntu1) ...
+Setting up antlr (2.7.7+dfsg-6ubuntu1) ...
+Setting up java-wrappers (0.1.28) ...
+7[24;0f[42m[30mProgress: [ 61%][49m[39m [####################################......................] 8Setting up bnd (2.4.1-3) ...
+Setting up ivy (2.4.0-3) ...
+Setting up libbsf-java (1:2.4.0-5build1) ...
+7[24;0f[42m[30mProgress: [ 62%][49m[39m [#####################################.....................] 8Setting up libhawtjni-runtime-java (1.10-1) ...
+Setting up libjansi-native-java (1.0-4) ...
+7[24;0f[42m[30mProgress: [ 63%][49m[39m [#####################################.....................] 8Setting up libjansi-java (1.4-3) ...
+Setting up libjline2-java (2.11-4) ...
+Setting up libqdox-java (1.12.1-1) ...
+7[24;0f[42m[30mProgress: [ 64%][49m[39m [######################################....................] 8Setting up libservlet2.5-java (6.0.45+dfsg-1) ...
+Setting up libxpp3-java (1.1.4c-2build1) ...
+Setting up libxstream-java (1.4.8-1ubuntu0.1) ...
+7[24;0f[42m[30mProgress: [ 65%][49m[39m [######################################....................] 8Setting up groovy2 (2.4.5-1) ...
+update-alternatives: using /usr/share/groovy2/bin/groovy to provide /usr/bin/groovy (groovy) in auto mode
+update-alternatives: using /usr/share/groovy2/bin/groovyc to provide /usr/bin/groovyc (groovyc) in auto mode
+update-alternatives: using /usr/share/groovy2/bin/grape to provide /usr/bin/grape (grape) in auto mode
+update-alternatives: using /usr/share/groovy2/bin/startGroovy to provide /usr/bin/startGroovy (startGroovy) in auto mode
+update-alternatives: using /usr/share/groovy2/bin/groovysh to provide /usr/bin/groovysh (groovysh) in auto mode
+update-alternatives: using /usr/share/groovy2/bin/java2groovy to provide /usr/bin/java2groovy (java2groovy) in auto mode
+update-alternatives: using /usr/share/groovy2/bin/groovyConsole to provide /usr/bin/groovyConsole (groovyConsole) in auto mode
+update-alternatives: using /usr/share/groovy2/bin/groovydoc to provide /usr/bin/groovydoc (groovydoc) in auto mode
+Setting up libatinject-jsr330-api-java (1.0+ds1-2) ...
+Setting up libcommons-io-java (2.4-2) ...
+7[24;0f[42m[30mProgress: [ 66%][49m[39m [#######################################...................] 8Setting up libcommons-lang-java (2.6-6ubuntu2) ...
+Setting up libjsr305-java (0.1~+svn49-9) ...
+Setting up libguava-java (19.0-1) ...
+7[24;0f[42m[30mProgress: [ 67%][49m[39m [#######################################...................] 8Setting up libhttpcore-java (4.4.4-1) ...
+Setting up libhttpclient-java (4.5.1-1) ...
+Setting up libjarjar-java (1.4+svn142-4ubuntu1) ...
+7[24;0f[42m[30mProgress: [ 68%][49m[39m [########################################..................] 8Setting up libjcifs-java (1.3.18-2) ...
+Setting up libjcip-annotations-java (20060626-5) ...
+Setting up libjna-jni (4.2.2-1) ...
+7[24;0f[42m[30mProgress: [ 69%][49m[39m [#########################################.................] 8Setting up libjna-java (4.2.2-1) ...
+Setting up libminlog-java (1.2-3) ...
+Setting up libreflectasm-java (1.05-3) ...
+7[24;0f[42m[30mProgress: [ 70%][49m[39m [#########################################.................] 8Setting up libkryo-java (2.20-5) ...
+Setting up libslf4j-java (1.7.14-3) ...
+7[24;0f[42m[30mProgress: [ 71%][49m[39m [##########################################................] 8Setting up liblogback-java (1:1.1.3-2) ...
+Setting up libnative-platform-jni (0.10+dfsg-1build1) ...
+Setting up libnative-platform-java (0.10+dfsg-1build1) ...
+7[24;0f[42m[30mProgress: [ 72%][49m[39m [##########################################................] 8Setting up libxml-commons-resolver1.1-java (1.2-7build1) ...
+Setting up libxml-commons-external-java (1.4.01-2build1) ...
+Setting up libxerces2-java (2.11.0-7) ...
+7[24;0f[42m[30mProgress: [ 73%][49m[39m [###########################################...............] 8Setting up libnekohtml-java (1.9.22-1) ...
+Setting up libxbean-java (4.5-1) ...
+Setting up libgradle-core-java (2.10-1) ...
+7[24;0f[42m[30mProgress: [ 74%][49m[39m [###########################################...............] 8Setting up libbcel-java (6.0~rc3-2ubuntu1) ...
+Setting up libjaxen-java (1.1.6-1ubuntu1) ...
+Setting up libxpp2-java (2.1.10-7build1) ...
+7[24;0f[42m[30mProgress: [ 75%][49m[39m [############################################..............] 8Setting up libdom4j-java (1.6.1+dfsg.3-2ubuntu1) ...
+Setting up libjdepend-java (2.9.1-1) ...
+Setting up libjformatstring-java (0.10~20131207-1) ...
+7[24;0f[42m[30mProgress: [ 76%][49m[39m [#############################################.............] 8Setting up findbugs (3.0.1-2) ...
+Setting up libbcprov-java (1.51-4ubuntu1) ...
+Setting up libbcpg-java (1.51-4ubuntu1) ...
+7[24;0f[42m[30mProgress: [ 77%][49m[39m [#############################################.............] 8Setting up libclassworlds-java (1.1-final-5) ...
+Setting up libgoogle-gson-java (2.4-1) ...
+Setting up libjatl-java (0.2.2-2) ...
+7[24;0f[42m[30mProgress: [ 78%][49m[39m [##############################################............] 8Setting up libjetty-java (6.1.26-5) ...
+Setting up libmail-java (1.5.5-1) ...
+Setting up libgeronimo-jta-1.1-spec-java (1.1.1-3ubuntu1) ...
+7[24;0f[42m[30mProgress: [ 79%][49m[39m [##############################################............] 8Setting up libjetty-extra-java (6.1.26-5) ...
+Setting up libjs-jquery (1.11.3+dfsg-4) ...
+7[24;0f[42m[30mProgress: [ 80%][49m[39m [###############################################...........] 8Setting up libcommons-net2-java (2.2-2) ...
+Setting up libjsoup-java (1.8.3-1) ...
+Setting up libplexus-classworlds-java (1.5.0-5) ...
+7[24;0f[42m[30mProgress: [ 81%][49m[39m [################################################..........] 8Setting up libjaxp1.3-java (1.3.05-2ubuntu3) ...
+Setting up libxalan2-java (2.7.1-9) ...
+Setting up libplexus-interpolation-java (1.21-1) ...
+7[24;0f[42m[30mProgress: [ 82%][49m[39m [################################################..........] 8Setting up libplexus-utils-java (1:1.5.15-4+deb8u1build0.16.04.1) ...
+Setting up libplexus-containers-java (1.0~beta3.0.7-8) ...
+Setting up libplexus-interactivity-api-java (1.0-alpha-6-7) ...
+7[24;0f[42m[30mProgress: [ 83%][49m[39m [#################################################.........] 8Setting up libwagon-java (1.0.0-7) ...
+Setting up libeclipse-aether-java (1.0.2-1) ...
+Setting up libcommons-lang3-java (3.4-1) ...
+7[24;0f[42m[30mProgress: [ 84%][49m[39m [#################################################.........] 8Setting up libaopalliance-java (20070526-5) ...
+Setting up libguice-java (4.0-2) ...
+Setting up libplexus-cipher-java (1.7-1) ...
+7[24;0f[42m[30mProgress: [ 85%][49m[39m [##################################################........] 8Setting up libplexus-classworlds2-java (2.5.2-1) ...
+Setting up libplexus-utils2-java (3.0.22-1) ...
+Setting up libplexus-container-default1.5-java (1.6-2) ...
+7[24;0f[42m[30mProgress: [ 86%][49m[39m [##################################################........] 8Setting up libplexus-component-annotations-java (1.6-2) ...
+Setting up libjdom1-java (1.1.3-1) ...
+Setting up libdoxia-core-java (1.1.4-3ubuntu1) ...
+7[24;0f[42m[30mProgress: [ 87%][49m[39m [###################################################.......] 8Setting up libplexus-container-default-java (1.0-alpha-9-stable-1-7) ...
+Setting up libplexus-ant-factory-java (1.0~alpha2.1-3) ...
+7[24;0f[42m[30mProgress: [ 88%][49m[39m [####################################################......] 8Setting up libplexus-io-java (1.0~alpha5-2) ...
+Setting up libplexus-archiver-java (2.2-1+deb9u1build0.16.04.1) ...
+Setting up libbsh-java (2.0b4-17ubuntu1) ...
+7[24;0f[42m[30mProgress: [ 89%][49m[39m [####################################################......] 8Setting up libplexus-bsh-factory-java (1.0~alpha7-3.1) ...
+Setting up libplexus-sec-dispatcher-java (1.3.1-6) ...
+Setting up libmaven2-core-java (2.2.1-24) ...
+7[24;0f[42m[30mProgress: [ 90%][49m[39m [#####################################################.....] 8Setting up libplexus-cli-java (1.2-5) ...
+Setting up libqdox2-java (2.0~M3-2) ...
+Setting up libplexus-component-metadata-java (1.6-2) ...
+7[24;0f[42m[30mProgress: [ 91%][49m[39m [#####################################################.....] 8Setting up libplexus-containers1.5-java (1.6-2) ...
+Setting up libgeronimo-interceptor-3.0-spec-java (1.0.1-3fakesync1) ...
+Setting up libcdi-api-java (1.0-2) ...
+7[24;0f[42m[30mProgress: [ 92%][49m[39m [######################################################....] 8Setting up libsisu-inject-java (0.3.2-1) ...
+Setting up libsisu-plexus-java (0.3.2-1) ...
+Setting up libcommons-net-java (3.4-2ubuntu2) ...
+7[24;0f[42m[30mProgress: [ 93%][49m[39m [######################################################....] 8Setting up liblog4j1.2-java (1.2.17-7ubuntu1) ...
+Setting up libmaven-parent-java (21-2) ...
+Setting up libwagon2-java (2.10-3) ...
+7[24;0f[42m[30mProgress: [ 94%][49m[39m [#######################################################...] 8Setting up libmaven3-core-java (3.3.9-3) ...
+Setting up libpolyglot-maven-java (0.8~tobrien+git20120905-5) ...
+Setting up librhino-java (1.7R4-3) ...
+7[24;0f[42m[30mProgress: [ 95%][49m[39m [########################################################..] 8Setting up libtomcat8-java (8.0.32-1ubuntu1.8) ...
+Setting up libjcommander-java (1.48-1) ...
+7[24;0f[42m[30mProgress: [ 96%][49m[39m [########################################################..] 8Setting up testng (6.9.5-1) ...
+Setting up libgradle-plugins-java (2.10-1) ...
+Setting up gradle (2.10-1) ...
+7[24;0f[42m[30mProgress: [ 97%][49m[39m [#########################################################.] 8Setting up javascript-common (11) ...
+Setting up libbindex-java (2.2+svn101-3) ...
+Setting up libnetty-3.9-java (3.9.0.Final-1) ...
+7[24;0f[42m[30mProgress: [ 98%][49m[39m [#########################################################.] 8Setting up libjsr166y-java (1.7.0-2) ...
+Setting up libjcsp-java (1.1-rc4-2) ...
+Setting up libgpars-groovy-java (1.2.1-5) ...
+7[24;0f[42m[30mProgress: [ 99%][49m[39m [##########################################################] 8Setting up libjetty-extra (6.1.26-5) ...
+Setting up libxom-java (1.2.10-1) ...
+
+7[0;24r8[1A[J]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ gradle build
+[0m[1m> Loading[22m[1m > settings[22m[11D[0K[7D[1mConfiguring[22m[1m > 0/1 projects[22m[1m > root project[22m[1m > Compiling script into cache[22m[30D[0K[1m > Compiling script into cache[22m[30D[0K[15D[0K[12D[1m1/1 projects[22m[15D[0K[13D[0K[1m> Building 0%[22m[1m > :compileJava[22m[1m > Resolving dependencies ':compile'[22m[36D[0K[15D[0K[13D[0K:compileJava
+[1m> Building 0%[22m[2D[1m7%[22m[1m > :processResources[22m[20D[0K[13D[0K:processResources 
+[1m> Building 7%[22m[13D[0K[1A[18C[33mUP-TO-DATE[39m
+[1m> Building 7%[22m[13D[0K[1A[28C
+[1m> Building 7%[22m[2D[1m14%[22m[1m > :classes[22m[11D[0K[14D[0K:classes
+[1m> Building 14%[22m[3D[1m21%[22m[1m > :jar[22m[7D[0K[14D[0K:jar
+[1m> Building 21%[22m[2D[1m8%[22m[1m > :startScripts[22m[1m > Resolving dependencies ':runtime'[22m[36D[0K[16D[0K[14D[0K:startScripts
+[1m> Building 28%[22m[3D[1m35%[22m[1m > :distTar[22m[11D[0K[14D[0K:distTar
+[1m> Building 35%[22m[3D[1m42%[22m[1m > :distZip[22m[11D[0K[14D[0K:distZip
+[1m> Building 42%[22m[3D[1m50%[22m[1m > :assemble[22m[12D[0K[14D[0K:assemble
+[1m> Building 50%[22m[2D[1m7%[22m[1m > :compileTestJava[22m[19D[0K[14D[0K:compileTestJava 
+[1m> Building 57%[22m[14D[0K[1A[17C[33mUP-TO-DATE[39m
+[1m> Building 57%[22m[14D[0K[1A[27C
+[1m> Building 57%[22m[3D[1m64%[22m[1m > :processTestResources[22m[24D[0K[14D[0K:processTestResources 
+[1m> Building 64%[22m[14D[0K[1A[22C[33mUP-TO-DATE[39m
+[1m> Building 64%[22m[14D[0K[1A[32C
+[1m> Building 64%[22m[3D[1m71%[22m[1m > :testClasses[22m[15D[0K[14D[0K:testClasses 
+[1m> Building 71%[22m[14D[0K[1A[13C[33mUP-TO-DATE[39m
+[1m> Building 71%[22m[14D[0K[1A[23C
+[1m> Building 71%[22m[2D[1m8%[22m[1m > :test[22m[8D[0K[14D[0K:test 
+[1m> Building 78%[22m[14D[0K[1A[6C[33mUP-TO-DATE[39m
+[1m> Building 78%[22m[14D[0K[1A[16C
+[1m> Building 78%[22m[3D[1m85%[22m[1m > :check[22m[9D[0K[14D[0K:check 
+[1m> Building 85%[22m[14D[0K[1A[7C[33mUP-TO-DATE[39m
+[1m> Building 85%[22m[14D[0K[1A[17C
+[1m> Building 85%[22m[3D[1m92%[22m[1m > :build[22m[9D[0K[14D[0K:build
+[1m> Building 92%[22m[3D[1m100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0KBUILD SUCCESSFUL
+[1m> Building 100%[22m[15D[0K[1A[16C
+[1m> Building 100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0KTotal time: 10.454 secs
+[1m> Building 100%[22m[15D[0K
+This build could be faster, please consider using the Gradle Daemon: https://docs.gradle.org/2.10/userguide/gradle_daemon.html
+[0m]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ gradle run
+[0m[1m> Loading[22m[1m > settings[22m[11D[0K[7D[1mConfiguring[22m[1m > 0/1 projects[22m[1m > root project[22m[15D[0K[12D[1m1/1 projects[22m[15D[0K[13D[0K[1m> Building 0%[22m[1m > :compileJava[22m[1m > Resolving dependencies ':compile'[22m[36D[0K[15D[0K[13D[0K:compileJava 
+[1m> Building 0%[22m[13D[0K[1A[13C[33mUP-TO-DATE[39m
+[1m> Building 0%[22m[13D[0K[1A[23C
+[1m> Building 0%[22m[2D[1m25%[22m[1m > :processResources[22m[20D[0K[14D[0K:processResources 
+[1m> Building 25%[22m[14D[0K[1A[18C[33mUP-TO-DATE[39m
+[1m> Building 25%[22m[14D[0K[1A[28C
+[1m> Building 25%[22m[3D[1m50%[22m[1m > :classes[22m[11D[0K[14D[0K:classes 
+[1m> Building 50%[22m[14D[0K[1A[9C[33mUP-TO-DATE[39m
+[1m> Building 50%[22m[14D[0K[1A[19C
+[1m> Building 50%[22m[3D[1m75%[22m[1m > :run[22m[1m > Resolving dependencies ':runtime'[22m[36D[0K[21D[0K:run
+[1m> Building 75% > :run[22m[21D[0KHello World!
+[1m> Building 75% > :run[22m[21D[0K[1A[12C
+[1m> Building 75% > :run[22m[7D[0K[3D[1m100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0KBUILD SUCCESSFUL
+[1m> Building 100%[22m[15D[0K[1A[16C
+[1m> Building 100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0KTotal time: 7.324 secs
+[1m> Building 100%[22m[15D[0K
+This build could be faster, please consider using the Gradle Daemon: https://docs.gradle.org/2.10/userguide/gradle_daemon.html
+[0m]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ gradle run --args="y our args [K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K="2 41"
+[0m[1m> Loading[22m[1m > settings[22m[11D[0K[7D[1mConfiguring[22m[1m > 0/1 projects[22m[1m > root project[22m[15D[0K[12D[1m1/1 projects[22m[28D[0K
+[1m> Configuring > 1/1 projects[22m[28D[0K[31mFAILURE: [39m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[9C[31mBuild failed with an exception.[39m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[40C
+[1m> Configuring > 1/1 projects[22m[28D[0K
+[1m> Configuring > 1/1 projects[22m[28D[0K* What went wrong:
+[1m> Configuring > 1/1 projects[22m[28D[0KProblem configuring task :run from command line.
+[1m> Configuring > 1/1 projects[22m[28D[0K[33m> [39m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[2CUnknown command-line option '--args'.
+[1m> Configuring > 1/1 projects[22m[28D[0K
+[1m> Configuring > 1/1 projects[22m[28D[0K* Try:
+[1m> Configuring > 1/1 projects[22m[28D[0KRun 
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[4C[1mgradle help --task :run[22m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[27C to get task usage details. Run with 
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[64C[1m--stacktrace[22m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[76C option to get the stack trace. Run with 
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[117C[1m--info[22m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[123C or 
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[127C[1m--debug[22m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[134C option to get more log output.
+[1m> Configuring > 1/1 projects[22m[28D[0K
+[1m> Configuring > 1/1 projects[22m[28D[0K[31mBUILD FAILED[39m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[12C
+[1m> Configuring > 1/1 projects[22m[28D[0K
+[1m> Configuring > 1/1 projects[22m[28D[0KTotal time: 7.441 secs
+[1m> Configuring > 1/1 projects[22m[15D[0K[13D[0K[0m]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ gradle run --args="2441"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[0m[1m> Loading[22m[1m > settings[22m[11D[0K[7D[1mConfiguring[22m[1m > 0/1 projects[22m[1m > root project[22m[15D[0K[12D[1m1/1 projects[22m[28D[0K
+[1m> Configuring > 1/1 projects[22m[28D[0K[31mFAILURE: [39m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[9C[31mBuild failed with an exception.[39m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[40C
+[1m> Configuring > 1/1 projects[22m[28D[0K
+[1m> Configuring > 1/1 projects[22m[28D[0K* What went wrong:
+[1m> Configuring > 1/1 projects[22m[28D[0KProblem configuring task :run from command line.
+[1m> Configuring > 1/1 projects[22m[28D[0K[33m> [39m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[2CUnknown command-line option '--args'.
+[1m> Configuring > 1/1 projects[22m[28D[0K
+[1m> Configuring > 1/1 projects[22m[28D[0K* Try:
+[1m> Configuring > 1/1 projects[22m[28D[0KRun 
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[4C[1mgradle help --task :run[22m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[27C to get task usage details. Run with 
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[64C[1m--stacktrace[22m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[76C option to get the stack trace. Run with 
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[117C[1m--info[22m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[123C or 
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[127C[1m--debug[22m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[134C option to get more log output.
+[1m> Configuring > 1/1 projects[22m[28D[0K
+[1m> Configuring > 1/1 projects[22m[28D[0K[31mBUILD FAILED[39m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[12C
+[1m> Configuring > 1/1 projects[22m[28D[0K
+[1m> Configuring > 1/1 projects[22m[28D[0KTotal time: 6.483 secs
+[1m> Configuring > 1/1 projects[22m[15D[0K[13D[0K[0m]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ gradle run
+[0m[1m> Loading[22m[1m > settings[22m[11D[0K[7D[1mConfiguring[22m[1m > 0/1 projects[22m[1m > root project[22m[15D[0K[12D[1m1/1 projects[22m[15D[0K[13D[0K[1m> Building 0%[22m[1m > :compileJava[22m[1m > Resolving dependencies ':compile'[22m[36D[0K[15D[0K[13D[0K:compileJava
+[1m> Building 0%[22m[2D[1m25%[22m[1m > :processResources[22m[20D[0K[14D[0K:processResources 
+[1m> Building 25%[22m[14D[0K[1A[18C[33mUP-TO-DATE[39m
+[1m> Building 25%[22m[14D[0K[1A[28C
+[1m> Building 25%[22m[3D[1m50%[22m[1m > :classes[22m[11D[0K[14D[0K:classes
+[1m> Building 50%[22m[3D[1m75%[22m[1m > :run[22m[1m > Resolving dependencies ':runtime'[22m[36D[0K[21D[0K:run
+[1m> Building 75% > :run[22m[21D[0KException in thread "main" 
+[1m> Building 75% > :run[22m[21D[0K[1A[27Cjava.lang.ArrayIndexOutOfBoundsException: 0
+[1m> Building 75% > :run[22m[21D[0K[1A[70C
+[1m> Building 75% > :run[22m[21D[0K	at lab1.Hello.main(Hello.java:5)
+[1m> Building 75% > :run[22m[21D[0K[1A[33C
+[1m> Building 75% > :run[22m[7D[0K[14D[0K:run 
+[1m> Building 75%[22m[14D[0K[1A[5C[33mFAILED[39m
+[1m> Building 75%[22m[14D[0K[1A[11C
+[1m> Building 75%[22m[3D[1m100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0K[31mFAILURE: [39m
+[1m> Building 100%[22m[15D[0K[1A[9C[31mBuild failed with an exception.[39m
+[1m> Building 100%[22m[15D[0K[1A[40C
+[1m> Building 100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0K* What went wrong:
+[1m> Building 100%[22m[15D[0KExecution failed for task ':run'.
+[1m> Building 100%[22m[15D[0K[33m> [39m
+[1m> Building 100%[22m[15D[0K[1A[2CProcess 'command '/usr/lib/jvm/java-8-openjdk-amd64/bin/java'' finished with non-zero exit value 1
+[1m> Building 100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0K* Try:
+[1m> Building 100%[22m[15D[0KRun with 
+[1m> Building 100%[22m[15D[0K[1A[9C[1m--stacktrace[22m
+[1m> Building 100%[22m[15D[0K[1A[21C option to get the stack trace. Run with 
+[1m> Building 100%[22m[15D[0K[1A[62C[1m--info[22m
+[1m> Building 100%[22m[15D[0K[1A[68C or 
+[1m> Building 100%[22m[15D[0K[1A[72C[1m--debug[22m
+[1m> Building 100%[22m[15D[0K[1A[79C option to get more log output.
+[1m> Building 100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0K[31mBUILD FAILED[39m
+[1m> Building 100%[22m[15D[0K[1A[12C
+[1m> Building 100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0KTotal time: 8.925 secs
+[1m> Building 100%[22m[15D[0K[0m]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ gradle build
+[0m[1m> Loading[22m[1m > settings[22m[11D[0K[7D[1mConfiguring[22m[1m > 0/1 projects[22m[1m > root project[22m[15D[0K[12D[1m1/1 projects[22m[15D[0K[13D[0K[1m> Building 0%[22m[1m > :compileJava[22m[1m > Resolving dependencies ':compile'[22m[36D[0K[15D[0K[13D[0K:compileJava 
+[1m> Building 0%[22m[13D[0K[1A[13C[33mUP-TO-DATE[39m
+[1m> Building 0%[22m[13D[0K[1A[23C
+[1m> Building 0%[22m[2D[1m7%[22m[1m > :processResources[22m[20D[0K[13D[0K:processResources 
+[1m> Building 7%[22m[13D[0K[1A[18C[33mUP-TO-DATE[39m
+[1m> Building 7%[22m[13D[0K[1A[28C
+[1m> Building 7%[22m[2D[1m14%[22m[1m > :classes[22m[11D[0K[14D[0K:classes 
+[1m> Building 14%[22m[14D[0K[1A[9C[33mUP-TO-DATE[39m
+[1m> Building 14%[22m[14D[0K[1A[19C
+[1m> Building 14%[22m[3D[1m21%[22m[1m > :jar[22m[7D[0K[14D[0K:jar
+[1m> Building 21%[22m[2D[1m8%[22m[1m > :startScripts[22m[1m > Resolving dependencies ':runtime'[22m[36D[0K[16D[0K[14D[0K:startScripts
+[1m> Building 28%[22m[3D[1m35%[22m[1m > :distTar[22m[11D[0K[14D[0K:distTar
+[1m> Building 35%[22m[3D[1m42%[22m[1m > :distZip[22m[11D[0K[14D[0K:distZip
+[1m> Building 42%[22m[3D[1m50%[22m[1m > :assemble[22m[12D[0K[14D[0K:assemble
+[1m> Building 50%[22m[2D[1m7%[22m[1m > :compileTestJava[22m[19D[0K[14D[0K:compileTestJava 
+[1m> Building 57%[22m[14D[0K[1A[17C[33mUP-TO-DATE[39m
+[1m> Building 57%[22m[14D[0K[1A[27C
+[1m> Building 57%[22m[3D[1m64%[22m[1m > :processTestResources[22m[24D[0K[14D[0K:processTestResources 
+[1m> Building 64%[22m[14D[0K[1A[22C[33mUP-TO-DATE[39m
+[1m> Building 64%[22m[14D[0K[1A[32C
+[1m> Building 64%[22m[3D[1m71%[22m[1m > :testClasses[22m[15D[0K[14D[0K:testClasses 
+[1m> Building 71%[22m[14D[0K[1A[13C[33mUP-TO-DATE[39m
+[1m> Building 71%[22m[14D[0K[1A[23C
+[1m> Building 71%[22m[2D[1m8%[22m[1m > :test[22m[8D[0K[14D[0K:test 
+[1m> Building 78%[22m[14D[0K[1A[6C[33mUP-TO-DATE[39m
+[1m> Building 78%[22m[14D[0K[1A[16C
+[1m> Building 78%[22m[3D[1m85%[22m[1m > :check[22m[9D[0K[14D[0K:check 
+[1m> Building 85%[22m[14D[0K[1A[7C[33mUP-TO-DATE[39m
+[1m> Building 85%[22m[14D[0K[1A[17C
+[1m> Building 85%[22m[3D[1m92%[22m[1m > :build[22m[9D[0K[14D[0K:build
+[1m> Building 92%[22m[3D[1m100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0KBUILD SUCCESSFUL
+[1m> Building 100%[22m[15D[0K[1A[16C
+[1m> Building 100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0KTotal time: 8.541 secs
+[1m> Building 100%[22m[15D[0K
+This build could be faster, please consider using the Gradle Daemon: https://docs.gradle.org/2.10/userguide/gradle_daemon.html
+[0m]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ gradle run 
+[0m[1m> Loading[22m[1m > settings[22m[11D[0K[7D[1mConfiguring[22m[1m > 0/1 projects[22m[1m > root project[22m[15D[0K[12D[1m1/1 projects[22m[15D[0K[13D[0K[1m> Building 0%[22m[1m > :compileJava[22m[1m > Resolving dependencies ':compile'[22m[36D[0K[15D[0K[13D[0K:compileJava 
+[1m> Building 0%[22m[13D[0K[1A[13C[33mUP-TO-DATE[39m
+[1m> Building 0%[22m[13D[0K[1A[23C
+[1m> Building 0%[22m[2D[1m25%[22m[1m > :processResources[22m[20D[0K[14D[0K:processResources 
+[1m> Building 25%[22m[14D[0K[1A[18C[33mUP-TO-DATE[39m
+[1m> Building 25%[22m[14D[0K[1A[28C
+[1m> Building 25%[22m[3D[1m50%[22m[1m > :classes[22m[11D[0K[14D[0K:classes 
+[1m> Building 50%[22m[14D[0K[1A[9C[33mUP-TO-DATE[39m
+[1m> Building 50%[22m[14D[0K[1A[19C
+[1m> Building 50%[22m[3D[1m75%[22m[1m > :run[22m[1m > Resolving dependencies ':runtime'[22m[36D[0K[21D[0K:run
+[1m> Building 75% > :run[22m[21D[0KException in thread "main" 
+[1m> Building 75% > :run[22m[21D[0K[1A[27Cjava.lang.ArrayIndexOutOfBoundsException: 0
+[1m> Building 75% > :run[22m[21D[0K[1A[70C
+[1m> Building 75% > :run[22m[21D[0K	at lab1.Hello.main(Hello.java:5)
+[1m> Building 75% > :run[22m[21D[0K[1A[33C
+[1m> Building 75% > :run[22m[7D[0K[14D[0K:run 
+[1m> Building 75%[22m[14D[0K[1A[5C[33mFAILED[39m
+[1m> Building 75%[22m[14D[0K[1A[11C
+[1m> Building 75%[22m[3D[1m100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0K[31mFAILURE: [39m
+[1m> Building 100%[22m[15D[0K[1A[9C[31mBuild failed with an exception.[39m
+[1m> Building 100%[22m[15D[0K[1A[40C
+[1m> Building 100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0K* What went wrong:
+[1m> Building 100%[22m[15D[0KExecution failed for task ':run'.
+[1m> Building 100%[22m[15D[0K[33m> [39m
+[1m> Building 100%[22m[15D[0K[1A[2CProcess 'command '/usr/lib/jvm/java-8-openjdk-amd64/bin/java'' finished with non-zero exit value 1
+[1m> Building 100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0K* Try:
+[1m> Building 100%[22m[15D[0KRun with 
+[1m> Building 100%[22m[15D[0K[1A[9C[1m--stacktrace[22m
+[1m> Building 100%[22m[15D[0K[1A[21C option to get the stack trace. Run with 
+[1m> Building 100%[22m[15D[0K[1A[62C[1m--info[22m
+[1m> Building 100%[22m[15D[0K[1A[68C or 
+[1m> Building 100%[22m[15D[0K[1A[72C[1m--debug[22m
+[1m> Building 100%[22m[15D[0K[1A[79C option to get more log output.
+[1m> Building 100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0K[31mBUILD FAILED[39m
+[1m> Building 100%[22m[15D[0K[1A[12C
+[1m> Building 100%[22m[15D[0K
+[1m> Building 100%[22m[15D[0KTotal time: 7.405 secs
+[1m> Building 100%[22m[15D[0K[0m]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ gradle run args="241 "
+[0m[1m> Loading[22m[1m > settings[22m[11D[0K[7D[1mConfiguring[22m[1m > 0/1 projects[22m[1m > root project[22m[15D[0K[12D[1m1/1 projects[22m[28D[0K
+[1m> Configuring > 1/1 projects[22m[28D[0K[31mFAILURE: [39m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[9C[31mBuild failed with an exception.[39m
+[1m> Configuring > 1/1 projects[22m[28D[0K[1A[40C
+[1m> Configuring > 1/1 projects[22m[28D[0K
+[1m> Configuring > Script started on Wed 09 Jan 2019 02:31:27 PM PST
+]0;jackw@jackw-VirtualBox: ~/Desktop/CSCI 241/lab-1-TheEric960[01;32mjackw@jackw-VirtualBox[00m:[01;34m~/Desktop/CSCI 241/lab-1-TheEric960[00m$ exit
+exit
+
+Script done on Wed 09 Jan 2019 02:31:33 PM PST
